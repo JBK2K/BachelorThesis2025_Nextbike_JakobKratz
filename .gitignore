@@ -1,0 +1,25 @@
+# ignore everything unessarc
+
+venv/
+
+results_trips/
+results_station_reservation/
+results_total_bikes
+
+safety_copies/
+
+notes.txt
+error_log.txt
+station_notes.txt
+
+backup/
+
+.vscode/
+
+ThesisGraphicsRelatedWork/
+
+error_log.txt
+.rsync-exclude.txt
+
+station_notes.txt
+
