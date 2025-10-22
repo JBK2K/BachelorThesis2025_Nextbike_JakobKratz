@@ -1,0 +1,1697 @@
+timestamp,station_name,event_type,duration_seconds,booked_bikes_entry,booked_bikes_exit,available_bikes_before,available_bikes_after,bikes_available_to_rent,bike_racks,free_racks,special_racks
+2025-07-20T17:06:03,S Hackescher Markt (Nord),not_booked:bike_taken,0,0,0,3,2,2,4,1,0
+2025-07-20T17:06:25,Jelbi Rathausstraße/Poststraße (MIT/RP),not_booked:bike_taken,0,0,0,5,4,4,10,6,0
+2025-07-20T17:06:36,Swinemünderstr.,booked:not_taken,43,1,0,1,1,1,4,3,0
+2025-07-20T17:06:36,Gustav-Meyer-Allee/Hussitenstraße,booked:not_taken,43,1,0,3,3,3,4,1,0
+2025-07-20T17:06:36,Jelbi Rathausstraße/Poststraße (MIT/RP),not_booked:bike_taken,0,0,0,4,2,2,10,8,0
+2025-07-20T17:06:46,M Bernauer Straße/Wolliner Straße,not_booked:bike_taken,0,0,0,8,7,7,4,0,0
+2025-07-20T17:06:46,Gustav-Meyer-Allee/Hussitenstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:06:57,M Knaackstraße/Prenzlauer Allee,booked:not_taken,64,1,0,1,1,1,4,3,0
+2025-07-20T17:06:57,Burgsdorfstraße/Willdenowstraße,booked:not_taken,64,1,1,1,1,0,4,3,0
+2025-07-20T17:06:57,S Köpenick (Süd),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T17:07:08,**Jelbi S+U Hauptbahnhof/Washingtonplatz (MOA/HW),not_booked:bike_taken,0,0,0,5,4,4,10,6,0
+2025-07-20T17:07:19,Baumschulenstraße/Kiefholzstraße,booked:not_taken,76,1,0,2,2,2,4,2,0
+2025-07-20T17:07:19,M Bernauer Straße/Wolliner Straße,not_booked:bike_taken,0,0,0,7,5,5,4,0,0
+2025-07-20T17:07:30,Prenzlauer Promenade/Heinersdorfer Straße,booked:not_taken,97,1,0,1,1,1,4,3,0
+2025-07-20T17:07:30,Baumschulenstraße/Kiefholzstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:07:30,Hertha-Block-Promenade/Wilhelm-Kabus-Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:07:30,Ingrid-Reschke-Straße/Ulrich-Plenzdorf-Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:07:30,EDEKA Schnelle (Alt-Stralau),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:07:41,Weinbergspark,not_booked:bike_taken,0,0,0,3,2,2,12,10,0
+2025-07-20T17:07:52,M Mauerpark,not_booked:bike_taken,0,0,0,10,9,9,18,9,0
+2025-07-20T17:08:03,Weinbergspark,not_booked:bike_taken,0,0,0,2,1,1,12,11,0
+2025-07-20T17:08:19,U Frankfurter Tor,not_booked:bike_taken,0,0,0,5,4,4,16,12,0
+2025-07-20T17:09:01,Weserstraße/Wildenbruchstraße,booked:not_taken,188,1,0,1,1,1,4,3,0
+2025-07-20T17:09:01,Weinbergspark,not_booked:bike_taken,0,0,0,2,1,1,12,11,0
+2025-07-20T17:09:01,M Mauerpark,not_booked:bike_taken,0,0,0,8,7,7,18,11,0
+2025-07-20T17:09:12,Hagenplatz,booked:not_taken,199,1,0,1,1,1,4,3,0
+2025-07-20T17:09:12,Oranienstraße/Luckauer Straße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T17:09:12,Oranienstraße/Luckauer Straße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T17:09:12,Jelbi Huxleys Neue Welt (NEU/HU),not_booked:bike_taken,0,0,0,7,6,6,7,0,0
+2025-07-20T17:09:12,**Jelbi S+U Hauptbahnhof/Europaplatz West (MOA/EW),not_booked:bike_taken,0,0,0,14,13,13,28,14,0
+2025-07-20T17:09:23,Möckernstraße/Hornstraße,booked:not_taken,210,2,1,2,2,1,4,2,0
+2025-07-20T17:09:34,Ordensmeisterstraße/Tempelhofer Damm,booked:not_taken,221,1,0,1,1,1,4,3,0
+2025-07-20T17:09:34,Jelbi S+U Alexanderplatz/Grunerstraße (MIT/AG),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T17:09:34,Lobeckstraße/Moritzstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:09:44,U Hermannplatz (Nord),booked:not_taken,112,1,0,1,1,1,5,3,0
+2025-07-20T17:09:55,**S Ostbahnhof,not_booked:bike_taken,0,0,0,3,2,2,13,11,0
+2025-07-20T17:10:06,Jelbi Burgstraße/Friedrichsbrücke (MIT/FR),not_booked:bike_taken,0,0,0,12,11,11,18,7,0
+2025-07-20T17:10:06,Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),not_booked:bike_taken,0,0,0,6,5,5,8,3,0
+2025-07-20T17:10:27,U Eberswalder Straße,booked:bike_taken,242,1,0,3,2,2,14,12,0
+2025-07-20T17:10:27,Jelbi Oberbaumbrücke (FHA/OB),not_booked:bike_taken,0,0,0,8,7,7,16,9,0
+2025-07-20T17:10:49,Forster Straße/Reichenberger Straße,booked:bike_taken,296,1,0,3,2,2,4,2,0
+2025-07-20T17:10:59,Strandbad Plötzensee,booked:not_taken,306,1,0,6,6,6,4,0,0
+2025-07-20T17:11:10,Kürfürstendamm/Giesebrechstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:11:10,Strandbad Plötzensee,not_booked:bike_taken,0,0,0,6,5,5,4,0,0
+2025-07-20T17:11:48,Potsdamer Str./Eichhornstr.,not_booked:bike_taken,0,0,0,3,2,2,6,3,0
+2025-07-20T17:12:09,Jelbi Leinestraße/Weisestraße (NEU/LW),booked:not_taken,376,1,0,2,2,2,4,2,0
+2025-07-20T17:12:09,Rudolfstraße/Danneckerstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:12:20,Munsterdamm (Sommerbad am Insulaner),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:12:20,Strandbad Wannsee,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:12:41,S Bellevue (Nord),booked:bike_taken,209,2,1,3,2,1,5,2,0
+2025-07-20T17:12:52,Jelbi Potsdamer Platz/Gabriele-Tergit-Promenade (MIT/PG),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T17:13:03,VRAO 20 - Boxhagener Platz/Südwest (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T17:13:03,Munsterdamm (Sommerbad am Insulaner),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:13:13,Straße des 17. Juni/Müller-Breslau-Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:13:35,S Adlershof (Weerthstraße),booked:not_taken,365,1,0,1,1,1,4,3,0
+2025-07-20T17:13:46,Munsterdamm (Sommerbad am Insulaner),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:13:56,Kapelle-Ufer/Alexanderufer,booked:not_taken,118,1,0,3,3,3,4,1,0
+2025-07-20T17:13:56,Helene-Jacobs-Straße/Reichenhaller Straße,booked:not_taken,483,1,0,2,2,2,4,2,0
+2025-07-20T17:14:07,U Eberswalder Straße,not_booked:bike_taken,0,0,0,2,1,1,14,13,0
+2025-07-20T17:14:07,Kapelle-Ufer/Alexanderufer,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:14:39,U Rathaus Neukölln (Schönstedtstraße),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T17:14:50,U Rathaus Neukölln (Schönstedtstraße),not_booked:bike_taken,0,0,0,4,3,3,4,0,0
+2025-07-20T17:14:50,Simon-Dach-Straße/Frankfurter Allee,not_booked:bike_taken,0,0,0,7,5,5,4,0,0
+2025-07-20T17:15:01,Gleimstraße/Sonnenburger Straße,booked:not_taken,548,1,0,1,1,1,4,3,0
+2025-07-20T17:15:01,Jelbi Mühlenstraße/ Straße der Pariser Kommune (FHA/MU),not_booked:bike_taken,0,0,0,4,3,3,12,8,0
+2025-07-20T17:15:13,Lehrter Straße (51),not_booked:bike_taken,0,0,0,4,3,3,4,0,0
+2025-07-20T17:15:24,S Wollankstraße (Sternstraße),booked:bike_taken,425,1,0,3,2,2,4,2,0
+2025-07-20T17:15:34,Jelbi Hasenheide/Graefestraße (KRE/HA),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:15:45,Jelbi Mühlenstraße/ Straße der Pariser Kommune (FHA/MU),not_booked:bike_taken,0,0,0,3,2,2,12,9,0
+2025-07-20T17:15:56,Jelbi S+U Zoologischer Garten/Jebensstraße (CHA/JE),booked:not_taken,55,1,0,1,1,1,10,9,0
+2025-07-20T17:15:56,VRAO 31 - Mohrenstraße/Charlottenstraße (Abstellfläche-Mikromobilität),booked:bike_taken,238,1,0,4,3,3,6,3,0
+2025-07-20T17:15:56,M Platz der Vereinten Nationen,not_booked:bike_taken,0,0,0,2,1,1,9,8,0
+2025-07-20T17:16:07,U Ernst-Reuter-Platz,not_booked:bike_taken,0,0,0,2,1,1,15,13,0
+2025-07-20T17:16:18,Krüllstraße/Karl-Kruger-Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:16:34,Jelbi Freie Universität/Fabeckstraße (DAH/FA),booked:not_taken,641,1,0,2,2,2,4,2,0
+2025-07-20T17:16:34,Jelbi U Kottbusser Tor/Reichenberger Straße (KRE/KR),not_booked:bike_taken,0,0,0,3,2,2,12,10,0
+2025-07-20T17:16:45,Bahnhofstraße/Lindenstraße,booked:bike_taken,652,2,1,2,1,0,4,3,0
+2025-07-20T17:16:55,Jelbi Freie Universität/Silberlaube (DAH/SI),booked:not_taken,662,1,0,1,1,1,4,2,0
+2025-07-20T17:16:55,Belziger Straße/Akazienstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:16:55,U Spittelmarkt (West),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T17:17:06,S Ostbahnhof (Nordost),booked:bike_taken,388,1,0,4,3,3,5,2,0
+2025-07-20T17:17:06,S Wannsee,booked:not_taken,673,2,0,2,2,2,4,2,0
+2025-07-20T17:17:17,Jelbi U Gleisdreieck (KRE/GLD),not_booked:bike_taken,0,0,0,6,5,5,10,5,0
+2025-07-20T17:17:49,Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),not_booked:bike_taken,0,0,0,5,4,4,8,4,0
+2025-07-20T17:18:11,Köpenicker Chausee (Klingenbergbrücke),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T17:18:21,Grüntaler Straße (Osloer Straße),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T17:18:21,Jelbi Lichtensteinallee/Café am Neuen See (TIE/LI),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T17:18:21,U Prinzenstraße,not_booked:bike_taken,0,0,0,19,18,18,12,0,0
+2025-07-20T17:18:32,Mühlendamm/Spreeufer,booked:not_taken,759,1,0,3,3,3,4,1,0
+2025-07-20T17:18:32,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,14,13,13,4,0,0
+2025-07-20T17:18:32,Jelbi U Mierendorffplatz (CHA/MI),not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T17:18:43,U Prinzenstraße,not_booked:bike_taken,0,0,0,18,17,17,12,0,0
+2025-07-20T17:18:54,virtuell - S Treptower Park (Puschkinallee/Elsenstraße),not_booked:bike_taken,0,0,0,5,4,4,5,0,0
+2025-07-20T17:18:54,Reichenberger Straße/Ratiborstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:18:54,S Sonnenallee,not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T17:19:15,Sonnenallee/Treptower Straße,booked:not_taken,802,2,0,2,2,2,7,5,0
+2025-07-20T17:19:15,Jelbi Grünberger Straße/Simon-Dach-Straße (FHA/GS),booked:bike_taken,97,1,0,3,2,2,8,6,0
+2025-07-20T17:19:15,**DB Mobility Hub S Südkreuz (EDEKA Südkreuz/Lotte-Laserstein-Straße),not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T17:19:15,**Jelbi S+U Hauptbahnhof/Europaplatz West (MOA/EW),not_booked:bike_taken,0,0,0,13,12,12,28,15,0
+2025-07-20T17:19:26,Breite Straße,not_booked:bike_taken,0,0,0,3,2,2,26,24,0
+2025-07-20T17:19:58,Jelbi Am Lustgarten (MIT/LU),booked:bike_taken,118,2,1,2,1,0,8,7,0
+2025-07-20T17:19:58,Jelbi Burgstraße/Friedrichsbrücke (MIT/FR),not_booked:bike_taken,0,0,0,11,10,10,18,8,0
+2025-07-20T17:20:09,Sonnenallee/Treptower Straße,not_booked:bike_taken,0,0,0,2,1,1,7,6,0
+2025-07-20T17:20:42,**Jelbi S+U Hauptbahnhof/Washingtonplatz (MOA/HW),not_booked:bike_taken,0,0,0,4,3,3,10,7,0
+2025-07-20T17:20:42,Potsdamer Str./Eichhornstr.,not_booked:bike_taken,0,0,0,2,1,1,6,4,0
+2025-07-20T17:20:53,Jelbi Sommerbad Neukölln (NEU/SO),not_booked:bike_taken,0,0,0,15,14,14,4,0,0
+2025-07-20T17:21:09,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,13,12,12,4,0,0
+2025-07-20T17:21:19,Jelbi Alte Schönhauser Straße/Linienstraße (MIT/LI),booked:bike_taken,264,1,0,2,1,1,7,6,0
+2025-07-20T17:21:41,Ingrid-Reschke-Straße/Ulrich-Plenzdorf-Straße,booked:not_taken,307,1,0,1,1,1,4,3,0
+2025-07-20T17:21:41,Reichenberger Straße/Ratiborstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:21:52,U Franz-Neumann-Platz,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T17:21:52,Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),not_booked:bike_taken,0,0,0,4,3,3,8,5,0
+2025-07-20T17:22:02,S Nordbahnhof,not_booked:bike_taken,0,0,0,4,3,3,15,12,0
+2025-07-20T17:22:02,**Jelbi S+U Hauptbahnhof/Washingtonplatz (MOA/HW),not_booked:bike_taken,0,0,0,4,3,3,10,7,0
+2025-07-20T17:22:02,**Jelbi S+U Hauptbahnhof/Washingtonplatz (MOA/HW),not_booked:bike_taken,0,0,0,4,3,3,10,7,0
+2025-07-20T17:22:24,S+U Yorckstraße (Süd),booked:bike_taken,157,1,0,3,2,2,4,1,0
+2025-07-20T17:22:24,Yorckstraße/Katzbachstraße,booked:not_taken,318,1,0,1,1,1,4,3,0
+2025-07-20T17:22:24,Großgörschenstraße/Bautzner Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:22:45,U Ernst-Reuter-Platz (Süd),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T17:22:45,S+U Yorckstraße (Süd),not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T17:22:56,Minna-Flake-Platz,booked:not_taken,409,1,0,1,1,1,4,3,0
+2025-07-20T17:22:56,VRAO 71 - Oberwallstraße/Hausvogteiplatz (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T17:22:56,U Reinickendorfer Straße (Fennstraße),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T17:23:08,**Jelbi S+U Hauptbahnhof/Europaplatz West (MOA/EW),not_booked:bike_taken,0,0,0,11,10,10,28,17,0
+2025-07-20T17:23:29,Birkenstraße/Wilsnacker Straße,not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T17:23:40,Jelbi Neue Wache (MIT/NE),not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T17:23:51,U Görlitzer Bahnhof,booked:bike_taken,152,3,2,3,2,0,15,12,0
+2025-07-20T17:24:12,U Schönleinstraße,not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T17:24:23,U Görlitzer Bahnhof,booked:bike_taken,184,3,1,2,1,0,15,13,0
+2025-07-20T17:24:23,U Nauener Platz,booked:not_taken,210,1,0,1,1,1,4,3,0
+2025-07-20T17:25:17,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,19,18,18,4,0,0
+2025-07-20T17:25:28,Neue Hochstraße,booked:not_taken,119,1,0,1,1,1,14,13,0
+2025-07-20T17:25:28,Jelbi Campus Buch/D79 (BUC/D79),not_booked:bike_taken,0,0,0,6,5,5,10,5,0
+2025-07-20T17:25:50,U Kochstraße,not_booked:bike_taken,0,0,0,3,2,2,9,7,0
+2025-07-20T17:26:27,Jelbi S+U Brandenburger Tor/Pariser Platz (MIT/BR),not_booked:bike_taken,0,0,0,3,2,2,12,10,0
+2025-07-20T17:26:27,Jelbi S+U Brandenburger Tor/Pariser Platz (MIT/BR),not_booked:bike_taken,0,0,0,3,2,2,12,10,0
+2025-07-20T17:26:38,EDEKA Schnelle (Alt-Stralau),booked:not_taken,939,1,0,1,1,1,4,3,0
+2025-07-20T17:26:38,Sportpromenade (Strandbad Grünau),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T17:26:38,S Köpenick (Süd),not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T17:26:49,Storkower Straße/Paul-Junius-Straße,not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T17:26:49,Ahrweilerstraße/Landauer Straße,not_booked:bike_taken,0,0,0,7,2,2,4,2,0
+2025-07-20T17:26:49,Ahrweilerstraße/Landauer Straße,not_booked:bike_taken,0,0,0,7,2,2,4,2,0
+2025-07-20T17:26:49,Ahrweilerstraße/Landauer Straße,not_booked:bike_taken,0,0,0,7,2,2,4,2,0
+2025-07-20T17:26:49,Ahrweilerstraße/Landauer Straße,not_booked:bike_taken,0,0,0,7,2,2,4,2,0
+2025-07-20T17:26:49,Ahrweilerstraße/Landauer Straße,not_booked:bike_taken,0,0,0,7,2,2,4,2,0
+2025-07-20T17:27:42,Jelbi Herrfurthstraße/Hermannstraße (NEU/HH),booked:not_taken,933,1,0,1,1,1,8,7,0
+2025-07-20T17:27:42,Fischerhüttenstraße/Elvirasteig,booked:bike_taken,308,1,0,3,2,2,4,1,0
+2025-07-20T17:27:42,M Am Friedrichshain,not_booked:bike_taken,0,0,0,2,1,1,17,16,0
+2025-07-20T17:28:04,S Bellevue (Nord),booked:bike_taken,690,2,0,3,2,2,5,2,0
+2025-07-20T17:28:04,U Schlesisches Tor (Nord),booked:bike_taken,210,1,0,2,1,1,4,3,0
+2025-07-20T17:28:36,Karl-Marx Allee,not_booked:bike_taken,0,0,0,11,10,10,16,6,0
+2025-07-20T17:28:47,Jelbi S+U Friedrichstraße/Georgenstraße (MIT/FG),booked:bike_taken,43,1,0,2,1,1,8,7,0
+2025-07-20T17:28:47,EDEKA S Greifwalder Straße (West),booked:not_taken,351,1,0,5,5,5,4,0,0
+2025-07-20T17:28:57,Torgauer Straße (Gustav-Müller-Straße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:28:57,EDEKA S Greifwalder Straße (West),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T17:28:57,S Köpenick (Süd),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T17:29:19,Jelbi S+U Brandenburger Tor/Unter den Linden (MIT/BU),not_booked:bike_taken,0,0,0,2,1,1,20,19,0
+2025-07-20T17:29:19,S+U Hauptbahnhof Washingtonplatz,not_booked:bike_taken,0,0,0,9,8,8,8,0,0
+2025-07-20T17:29:19,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,21,20,20,4,0,0
+2025-07-20T17:29:46,Am Tempelhofer Feld,not_booked:bike_taken,0,0,0,2,1,1,8,6,0
+2025-07-20T17:29:52,Jelbi Dieffenbachstr./Grimmstr. (KRE/DG),not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T17:30:03,**Helsingforser Platz (S Warschauer Straße),not_booked:bike_taken,0,0,0,14,13,13,12,0,0
+2025-07-20T17:30:25,Ordensmeisterstraße/Tempelhofer Damm,booked:not_taken,384,1,0,1,1,1,4,3,0
+2025-07-20T17:30:25,Gutenbergstraße/Englische Straße,booked:bike_taken,88,1,0,2,1,1,4,3,0
+2025-07-20T17:30:25,VRAO 62 - Görlitzer Straße/Lübbenerstraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T17:30:47,**Helsingforser Platz (S Warschauer Straße),not_booked:bike_taken,0,0,0,14,13,13,12,0,0
+2025-07-20T17:31:03,Katzbachstraße,not_booked:bike_taken,0,0,0,5,4,4,15,11,0
+2025-07-20T17:31:13,Hirschgarten (Fürstenwalder Damm),booked:not_taken,243,1,0,2,2,2,4,2,0
+2025-07-20T17:31:35,Alte Jakobstraße/Lindenstraße,booked:bike_taken,432,1,0,3,2,2,4,2,0
+2025-07-20T17:31:35,Jelbi Rathausstraße/Poststraße (MIT/RP),not_booked:bike_taken,0,0,0,5,4,4,10,6,0
+2025-07-20T17:31:35,Hirschgarten (Fürstenwalder Damm),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:32:07,Jelbi Zimmerstraße/Friedrichstraße (MIT/ZF),not_booked:bike_taken,0,0,0,4,3,3,5,2,0
+2025-07-20T17:32:18,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,20,19,19,4,0,0
+2025-07-20T17:32:50,S Feuerbachstraße,booked:not_taken,923,1,1,1,1,0,8,6,0
+2025-07-20T17:32:50,Weslerstraße/Geisbergstraße,booked:not_taken,933,1,0,1,1,1,4,3,0
+2025-07-20T17:33:01,M Mauerpark,not_booked:bike_taken,0,0,0,10,9,9,18,9,0
+2025-07-20T17:33:01,U Kleistpark (Nord),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:33:12,Am Treptower Park/Herkomerstraße,not_booked:bike_taken,0,0,0,3,2,2,4,1,0
+2025-07-20T17:33:23,Sonnenallee/Treptower Straße,booked:not_taken,108,1,0,1,1,1,7,6,0
+2025-07-20T17:33:23,Jelbi Freie Universität/Fabeckstraße (DAH/FA),booked:not_taken,923,1,1,3,3,2,4,1,0
+2025-07-20T17:33:23,Jelbi-Punkt Henriette-Herz-Park (TIE/HE),not_booked:bike_taken,0,0,0,5,4,4,10,6,0
+2025-07-20T17:33:33,VRAO 89 Malplaquetstraße/Nazarethkirchstraße (Abstellfläche Mikromobilität),booked:not_taken,539,1,0,1,1,1,4,3,0
+2025-07-20T17:33:33,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,19,18,18,4,0,0
+2025-07-20T17:33:44,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,18,17,17,4,0,0
+2025-07-20T17:33:44,Leuthener Straße/Leberstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:33:55,U Schloßstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:34:07,U Rathaus Neukölln (Schönstedtstraße),not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T17:34:18,Goebenstraße/Kulmer Straße,booked:not_taken,935,1,0,1,1,1,4,3,0
+2025-07-20T17:34:18,**DB Mobility Hub S Südkreuz (Erika-Gräfin-von-Brockdorff-Platz),not_booked:bike_taken,0,0,0,4,3,3,20,17,0
+2025-07-20T17:34:28,Bulgarische Straße/Abteilbrücke,booked:bike_taken,637,1,0,5,4,4,4,0,0
+2025-07-20T17:34:39,S Treptower Park,not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T17:35:02,U Berliner Straße,booked:not_taken,132,1,0,1,1,1,4,3,0
+2025-07-20T17:35:12,Jelbi Maaßenstraße (SCH/MA),not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T17:35:23,Strandbad Plötzensee,booked:bike_taken,142,1,0,3,2,2,4,2,0
+2025-07-20T17:35:23,Kiehlufer/Elsenstraße,booked:not_taken,925,1,0,1,1,1,4,2,0
+2025-07-20T17:35:23,Jelbi Sommerbad Neukölln (NEU/SO),not_booked:bike_taken,0,0,0,12,11,11,4,0,0
+2025-07-20T17:35:34,S+U Tempelhof (Nordost),booked:bike_taken,482,1,1,3,2,1,5,3,0
+2025-07-20T17:35:34,virtuell - Hertzbergstraße/Böhmische Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:35:45,Bulgarische Straße/Abteilbrücke,not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T17:36:17,Jelbi Mühlenstraße/ Straße der Pariser Kommune (FHA/MU),not_booked:bike_taken,0,0,0,2,1,1,12,10,0
+2025-07-20T17:36:17,U Schwartzkopffstraße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T17:36:17,Sportpromenade (Strandbad Grünau),not_booked:bike_taken,0,0,0,4,2,2,4,1,0
+2025-07-20T17:36:28,U Ernst-Reuter-Platz (Süd),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:36:55,Ufnaustraße/Huttenstraße,not_booked:bike_taken,0,0,0,4,3,3,5,2,0
+2025-07-20T17:37:06,S Nöldnerplatz (Leopoldstraße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:37:16,Pichelswerder (Heerstraße),booked:bike_taken,309,1,0,2,1,1,4,3,0
+2025-07-20T17:37:27,Krossener Straße/Seumestraße,booked:not_taken,352,1,0,1,1,1,4,3,0
+2025-07-20T17:37:27,Weserstraße/Wildenbruchstraße,booked:not_taken,925,1,0,2,2,2,4,2,0
+2025-07-20T17:37:38,Simon-Dach-Straße/Frankfurter Allee,not_booked:bike_taken,0,0,0,7,6,6,4,0,0
+2025-07-20T17:49:27,S Tiergarten,booked:not_taken,1602,1,0,1,1,1,14,12,0
+2025-07-20T17:49:27,M Memhardstraße,booked:not_taken,1613,1,0,1,2,2,20,18,0
+2025-07-20T17:49:27,Pannierstraße,booked:not_taken,790,1,0,1,1,1,10,8,0
+2025-07-20T17:49:27,EDEKA Fiebig (Kottbuser Damm),booked:not_taken,1283,1,0,1,1,1,4,3,0
+2025-07-20T17:49:27,virtuell - Böhmischer Platz (Süd),booked:bike_taken,1504,1,0,3,1,1,4,3,0
+2025-07-20T17:49:27,U Osloer Straße (Ost),booked:not_taken,888,1,0,1,1,1,4,3,0
+2025-07-20T17:49:27,Bulgarische Straße/Neue Krugallee,booked:not_taken,1526,1,0,2,2,2,4,2,0
+2025-07-20T17:49:27,Brachvogelstraße/Blücherstraße,booked:not_taken,1579,1,0,1,1,1,4,3,0
+2025-07-20T17:49:27,Friedlander Straße (Oberspreestraße),booked:bike_taken,1181,1,0,3,2,2,4,2,0
+2025-07-20T17:49:27,Jelbi Freie Universität/Fabeckstraße (DAH/FA),booked:bike_taken,986,2,0,3,2,2,4,2,0
+2025-07-20T17:49:27,Sickingenstraße/Berlichingenstraße,booked:not_taken,1526,1,0,3,3,3,4,1,0
+2025-07-20T17:49:27,Jelbi Charité-Campus Virchow-Klinikum/Forum (WED/FO),not_booked:bike_taken,0,0,0,3,1,1,8,7,0
+2025-07-20T17:49:27,U Prinzenstraße,not_booked:bike_taken,0,0,0,20,19,19,12,0,0
+2025-07-20T17:49:27,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,17,14,14,4,0,0
+2025-07-20T17:49:27,Jelbi U Rosenthaler Platz Nord (MIT/RN),not_booked:bike_taken,0,0,0,5,2,2,6,4,0
+2025-07-20T17:49:27,VRAO 37 - Altonaer Straße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T17:49:27,U Kochstraße,not_booked:bike_taken,0,0,0,2,1,1,9,8,0
+2025-07-20T17:49:27,Ludwigkirchplatz/Pfalzburger Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:49:27,Peter-Strasser-Weg (Tempelhofer Feld West),not_booked:bike_taken,0,0,0,11,10,10,4,0,0
+2025-07-20T17:49:27,**S Ostbahnhof,not_booked:bike_taken,0,0,0,2,1,1,13,12,0
+2025-07-20T17:49:27,VRAO 20 - Boxhagener Platz/Südwest (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T17:49:27,Tucholskystraße,not_booked:bike_taken,0,0,0,2,1,1,20,19,0
+2025-07-20T17:49:27,Jelbi S+U Potsdamer Platz/A.-Hauschner-Straße (TIE/PO),not_booked:bike_taken,0,0,0,4,3,3,15,12,0
+2025-07-20T17:49:27,U Schlesisches Tor (Ost),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:49:27,**Helsingforser Platz (S Warschauer Straße),not_booked:bike_taken,0,0,0,12,10,10,12,2,0
+2025-07-20T17:49:27,virtuell - S Treptower Park (Puschkinallee/Elsenstraße),not_booked:bike_taken,0,0,0,4,3,3,5,1,0
+2025-07-20T17:49:27,Jelbi U Rosenthaler Platz Nord (MIT/RN),not_booked:bike_taken,0,0,0,5,2,2,6,4,0
+2025-07-20T17:49:27,Schwedter Straße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,5,3,3,6,3,0
+2025-07-20T17:49:27,S Messe Nord / ICC (Wundtstraße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:49:27,Jelbi S+U Potsdamer Platz/A.-Hauschner-Straße (TIE/PO),not_booked:bike_taken,0,0,0,4,3,3,15,12,0
+2025-07-20T17:49:27,Weißer See (Indira-Gandhi-Straße),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T17:49:27,Hermann-Hesse-Straße/Waldstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:49:27,Jelbi U Bülowstraße (SCH/BU),not_booked:bike_taken,0,0,0,5,4,4,6,1,0
+2025-07-20T17:49:27,**Helsingforser Platz (S Warschauer Straße),not_booked:bike_taken,0,0,0,12,10,10,12,2,0
+2025-07-20T17:49:27,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,17,14,14,4,0,0
+2025-07-20T17:49:27,Schönhauser Allee/Saarbrücker Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:49:27,U Frankfurter Tor,not_booked:bike_taken,0,0,0,3,1,1,16,15,0
+2025-07-20T17:49:27,Jelbi Rummelsburger Platz (FHA/RP),not_booked:bike_taken,0,0,0,5,4,4,8,4,0
+2025-07-20T17:49:27,Jelbi U Rosenthaler Platz Nord (MIT/RN),not_booked:bike_taken,0,0,0,5,2,2,6,4,0
+2025-07-20T17:49:27,Reichenberger Straße/Ratiborstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:49:27,Sickingenstr.,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:49:27,**S Ostbahnhof,not_booked:bike_taken,0,0,0,2,1,1,13,12,0
+2025-07-20T17:49:27,U Prinzenstraße,not_booked:bike_taken,0,0,0,20,19,19,12,0,0
+2025-07-20T17:49:27,S+U Neukölln,not_booked:bike_taken,0,0,0,3,1,1,8,7,0
+2025-07-20T17:49:27,Tieckstraße,not_booked:bike_taken,0,0,0,2,1,1,11,9,0
+2025-07-20T17:49:27,EDEKA Schaaf (Schillingstraße),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:49:27,EDEKA Schaaf (Schillingstraße),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:49:27,Jelbi Charité-Campus Virchow-Klinikum/Forum (WED/FO),not_booked:bike_taken,0,0,0,3,1,1,8,7,0
+2025-07-20T17:49:27,VRAO 30 - Friedrichsstraße/Schützenstraße/Ost (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T17:49:27,Oderbergerstraße 1 (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T17:49:27,Schwedter Straße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,5,3,3,6,3,0
+2025-07-20T17:49:27,Aristotelessteig (6),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:49:27,Jelbi U Nollendorfplatz/Kleiststraße (SCH/UN),not_booked:bike_taken,0,0,0,10,9,9,6,0,0
+2025-07-20T17:49:27,EDEKA Schloßstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:49:27,S+U Alexanderplatz (Dircksenstraße),not_booked:bike_taken,0,0,0,4,3,3,13,10,0
+2025-07-20T17:49:27,Müller-Breslau-Straße (Schleusenkrug),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:49:27,Schwedter Straße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,5,3,3,6,3,0
+2025-07-20T17:49:27,EDEKA S Greifwalder Straße (West),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T17:49:27,U Märkisches Museum,not_booked:bike_taken,0,0,0,2,1,1,12,11,0
+2025-07-20T17:49:27,Jelbi U Gleisdreieck (KRE/GLD),not_booked:bike_taken,0,0,0,4,2,2,10,8,0
+2025-07-20T17:49:27,Willibald-Alexis-Straße/Chamissoplatz,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T17:49:27,Jelbi U Südstern/Fontanepromenade (KRE/SUE),not_booked:bike_taken,0,0,0,2,1,1,7,6,0
+2025-07-20T17:49:27,U Frankfurter Tor,not_booked:bike_taken,0,0,0,3,1,1,16,15,0
+2025-07-20T17:49:27,**Jelbi S+U Hauptbahnhof/Europaplatz West (MOA/EW),not_booked:bike_taken,0,0,0,10,9,9,28,18,0
+2025-07-20T17:49:27,S+U Neukölln,not_booked:bike_taken,0,0,0,3,1,1,8,7,0
+2025-07-20T17:49:27,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,17,14,14,4,0,0
+2025-07-20T17:49:27,Potsdamer Straße/Sigismundstraße,not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T17:49:27,Jelbi Grünberger Straße/Simon-Dach-Straße (FHA/GS),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T17:49:27,Jelbi Memhardstraße/Rosa-Luxemburg-Straße (MIT/ME),not_booked:bike_taken,0,0,0,4,3,3,8,5,0
+2025-07-20T17:49:27,Jelbi U Gleisdreieck (KRE/GLD),not_booked:bike_taken,0,0,0,4,2,2,10,8,0
+2025-07-20T17:49:56,U Samariterstraße,not_booked:bike_taken,0,0,0,9,8,8,9,1,0
+2025-07-20T17:50:08,Jelbi S+U Potsdamer Platz/A.-Hauschner-Straße (TIE/PO),not_booked:bike_taken,0,0,0,3,2,2,15,13,0
+2025-07-20T17:50:08,U Schwartzkopffstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:50:38,Jelbi Bebelplatz (MIT/BB),booked:bike_taken,71,1,0,5,4,4,6,2,0
+2025-07-20T17:50:25,U Samariterstraße,not_booked:bike_taken,0,0,0,8,7,7,9,2,0
+2025-07-20T17:50:38,U Schwartzkopffstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:50:38,S+U Jannowitzbrücke,not_booked:bike_taken,0,0,0,2,1,1,14,13,0
+2025-07-20T17:55:37,S Ostbahnhof (Nordost),booked:not_taken,370,1,0,1,1,1,5,4,0
+2025-07-20T17:55:37,Neue Bahnhofstraße/Boxhagener Straße (Süd),booked:not_taken,1079,1,0,1,1,1,4,3,0
+2025-07-20T17:55:37,Berthelsdorfer Straße/Richardstraße,booked:bike_taken,347,1,0,2,1,1,4,3,0
+2025-07-20T17:55:37,S+U Gesundbrunnen (Nordost),booked:bike_taken,370,1,0,3,2,2,4,2,0
+2025-07-20T17:55:37,VRAO 21 - Boxhagener Platz/Nordwest (Abstellfläche-Mikromobilität),booked:not_taken,370,1,0,1,1,1,4,3,0
+2025-07-20T17:50:49,Katzbachstraße,not_booked:bike_taken,0,0,0,4,3,3,15,12,0
+2025-07-20T17:55:37,M Kopernikusstraße/Warschauer Straße (Nord),not_booked:bike_taken,0,0,0,3,1,1,4,2,0
+2025-07-20T17:55:37,Görlitzer Straße (Landwehrkanal),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:55:37,S Friedrichsfelde Ost,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:55:37,Quitzowstr.,not_booked:bike_taken,0,0,0,6,5,5,5,0,0
+2025-07-20T17:55:37,EDEKA Ungefroren (Fischerinsel),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:55:37,EDEKA Ungefroren (Fischerinsel),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T17:55:37,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,14,10,10,4,0,0
+2025-07-20T17:55:37,Karl-Marx Allee,not_booked:bike_taken,0,0,0,11,9,9,16,7,0
+2025-07-20T17:55:37,Jelbi U Alexanderplatz/Bernhard-Weiß-Straße (MIT/AB),not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T17:55:37,**Jelbi S+U Hauptbahnhof/Europaplatz West (MOA/EW),not_booked:bike_taken,0,0,0,9,8,8,28,19,0
+2025-07-20T17:55:37,Teufelsseechaussee (Parkplatz),not_booked:bike_taken,0,0,0,12,10,10,4,0,0
+2025-07-20T17:55:37,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,14,10,10,4,0,0
+2025-07-20T17:55:37,U Prinzenstraße,not_booked:bike_taken,0,0,0,19,17,17,12,0,0
+2025-07-20T17:55:37,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,14,10,10,4,0,0
+2025-07-20T17:55:37,Teufelsseechaussee (Parkplatz),not_booked:bike_taken,0,0,0,12,10,10,4,0,0
+2025-07-20T17:55:37,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,14,10,10,4,0,0
+2025-07-20T17:55:37,U Prinzenstraße,not_booked:bike_taken,0,0,0,19,17,17,12,0,0
+2025-07-20T17:55:37,U Prinzenstraße,not_booked:bike_taken,0,0,0,19,17,17,12,0,0
+2025-07-20T17:55:37,U Prinzenstraße,not_booked:bike_taken,0,0,0,19,17,17,12,0,0
+2025-07-20T17:55:37,Karl-Marx Allee,not_booked:bike_taken,0,0,0,11,9,9,16,7,0
+2025-07-20T17:55:37,Jelbi Burgstraße/Friedrichsbrücke (MIT/FR),not_booked:bike_taken,0,0,0,10,9,9,18,9,0
+2025-07-20T17:55:37,Jelbi Potsdamer Platz/Gabriele-Tergit-Promenade (MIT/PG),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T17:55:37,Stargarder Straße 5 (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T17:55:37,Jelbi Rathausstraße/Berliner Fernsehturm (MIT/RB),not_booked:bike_taken,0,0,0,6,5,5,8,3,0
+2025-07-20T17:55:37,Mühlendamm/Spreeufer,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T17:55:37,M Kopernikusstraße/Warschauer Straße (Nord),not_booked:bike_taken,0,0,0,3,1,1,4,2,0
+2025-07-20T17:55:37,Jelbi Bebelplatz (MIT/BB),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T18:11:15,Neue Hochstraße,booked:not_taken,1308,1,0,1,2,2,14,12,0
+2025-07-20T18:11:15,U Frankfurter Tor,booked:not_taken,938,1,0,2,1,1,16,15,0
+2025-07-20T18:11:15,Hauptstraße/Emma-Ihrer-Straße,booked:not_taken,1308,1,0,1,1,1,10,9,0
+2025-07-20T18:11:15,S Treptower Park,booked:bike_taken,1308,1,0,2,1,1,5,4,0
+2025-07-20T18:11:15,Jelbi S+U Zoologischer Garten/Joachimsthaler Str. (CHA/JO),booked:not_taken,938,1,0,1,1,1,15,14,0
+2025-07-20T18:11:15,Peter-Strasser-Weg (Tempelhofer Feld West),booked:bike_taken,938,1,0,10,5,5,4,0,0
+2025-07-20T18:11:15,Paul-Heyse-Straße/Danziger Straße,booked:not_taken,1308,1,0,2,2,2,4,2,0
+2025-07-20T18:11:15,S Bundesplatz (Süd),booked:not_taken,1308,1,0,1,1,1,4,3,0
+2025-07-20T18:11:15,Simon-Dach-Straße/Frankfurter Allee,booked:bike_taken,938,4,0,6,2,2,4,2,0
+2025-07-20T18:11:15,Nestorstraße/Kurfürstendamm,booked:bike_taken,938,1,0,2,1,1,4,3,0
+2025-07-20T18:11:15,Krügerstraße/Kuglerstraße,booked:bike_taken,938,1,0,2,1,1,4,3,0
+2025-07-20T18:11:15,VRAO 35 - Waldstraße (Mikromobilitätsabstellfläche),booked:bike_taken,1303,1,0,2,1,1,6,5,0
+2025-07-20T18:11:15,Rennbahnstraße/Roelckestraße,booked:bike_taken,1308,1,0,2,1,1,4,3,0
+2025-07-20T18:11:15,Alte Jakobstraße/Franz-Künstler-Straße,booked:not_taken,1308,3,0,3,3,3,4,0,0
+2025-07-20T18:11:15,Berthelsdorfer Straße/Donaustraße,booked:bike_taken,938,2,0,3,1,1,4,3,0
+2025-07-20T18:11:15,S Köpenick (Süd),booked:bike_taken,1308,1,0,2,1,1,6,5,0
+2025-07-20T18:11:15,Ingrid-Reschke-Straße/Ulrich-Plenzdorf-Straße,booked:not_taken,2369,1,0,1,1,1,4,3,0
+2025-07-20T18:11:15,Jelbi Zimmerstraße/Wilhelmstraße (MIT/ZW),booked:not_taken,1308,1,0,2,3,3,4,1,0
+2025-07-20T18:11:15,Adalbertstraße (Adalbertbrücke),booked:not_taken,1308,1,0,1,1,1,4,3,0
+2025-07-20T18:11:15,Jelbi U Kottbusser Tor/Zentrum Kreuzberg (KRE/KO),booked:not_taken,1226,1,0,3,3,3,12,8,0
+2025-07-20T18:11:15,Jelbi U Kottbusser Tor/Zentrum Kreuzberg (KRE/KO),booked:not_taken,938,2,0,3,3,3,12,8,0
+2025-07-20T18:11:15,Jelbi U Görlitzer Bahnhof/Manteuffelstraße (KRE/GM),booked:not_taken,1308,1,0,1,1,1,11,9,0
+2025-07-20T17:55:43,Marie-Curie-Allee/Münsterlandstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:11:15,Jelbi Sommerbad Neukölln (NEU/SO),not_booked:bike_taken,0,0,0,14,7,7,4,0,0
+2025-07-20T18:11:15,S Nöldnerplatz ,not_booked:bike_taken,0,0,0,12,10,10,15,5,0
+2025-07-20T18:11:15,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,12,11,11,4,0,0
+2025-07-20T18:11:15,**DB Mobility Hub S Südkreuz (EDEKA Südkreuz/Lotte-Laserstein-Straße),not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T18:11:15,M Bernauer Straße/Wolliner Straße,not_booked:bike_taken,0,0,0,5,1,1,4,3,0
+2025-07-20T18:11:15,U Rathaus Neukölln (Boddinstraße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:11:15,Jelbi Sommerbad Neukölln (NEU/SO),not_booked:bike_taken,0,0,0,14,7,7,4,0,0
+2025-07-20T18:11:15,Aristide-Briand-Brücke (Kurt-Schumacher-Damm),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:11:15,EDEKA Urbschat (U Siemensdamm),not_booked:bike_taken,0,0,0,6,5,5,4,0,0
+2025-07-20T18:11:15,U Weinmeisterstraße/Gormannstraße,not_booked:bike_taken,0,0,0,6,2,2,20,18,0
+2025-07-20T18:11:15,U Kurt-Schumacher-Platz (West),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:11:15,U Frankfurter Tor,not_booked:bike_taken,0,0,0,2,1,1,16,15,0
+2025-07-20T18:11:15,Rathenaustraße/Slabystraße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T18:11:15,Jelbi Rathausstraße/Berliner Fernsehturm (MIT/RB),not_booked:bike_taken,0,0,0,5,3,3,8,5,0
+2025-07-20T18:11:15,Geschwister Scholl Str.,not_booked:bike_taken,0,0,0,5,3,3,33,29,0
+2025-07-20T18:11:15,Grimmstraße,not_booked:bike_taken,0,0,0,3,2,2,12,10,0
+2025-07-20T18:11:15,U Weinmeisterstraße/Gormannstraße,not_booked:bike_taken,0,0,0,6,2,2,20,18,0
+2025-07-20T18:11:15,Jelbi Burgstraße/Friedrichsbrücke (MIT/FR),not_booked:bike_taken,0,0,0,9,7,7,18,11,0
+2025-07-20T18:11:15,virtuell – Skalitzer Straße/Erkelenzdamm,not_booked:bike_taken,0,0,0,3,2,2,4,1,0
+2025-07-20T18:11:15,Wrangelstraße/Mariannenplatz,not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T18:11:15,Jelbi Sommerbad Neukölln (NEU/SO),not_booked:bike_taken,0,0,0,14,7,7,4,0,0
+2025-07-20T18:11:15,Jelbi U Kottbusser Tor/Reichenberger Straße (KRE/KR),not_booked:bike_taken,0,0,0,2,1,1,12,11,0
+2025-07-20T18:11:15,Nalepastraße (Funkhaus),not_booked:bike_taken,0,0,0,9,8,8,4,0,0
+2025-07-20T18:11:15,EDEKA Siegler (Richard-von-Weizsäcker-Platz),not_booked:bike_taken,0,0,0,9,8,8,4,0,0
+2025-07-20T18:11:15,Jelbi Gertrud-Kolmar-Straße/Hannah-Arendt-Straße (MIT/GE),not_booked:bike_taken,0,0,0,7,3,3,10,7,0
+2025-07-20T18:11:15,Geschwister Scholl Str.,not_booked:bike_taken,0,0,0,5,3,3,33,29,0
+2025-07-20T18:11:15,Jelbi Gertrud-Kolmar-Straße/Hannah-Arendt-Straße (MIT/GE),not_booked:bike_taken,0,0,0,7,3,3,10,7,0
+2025-07-20T18:11:15,Jelbi S Storkower Straße (PRE/STO),not_booked:bike_taken,0,0,0,2,1,1,7,6,0
+2025-07-20T18:11:15,Jelbi Sommerbad Neukölln (NEU/SO),not_booked:bike_taken,0,0,0,14,7,7,4,0,0
+2025-07-20T18:11:15,Jelbi Sommerbad Neukölln (NEU/SO),not_booked:bike_taken,0,0,0,14,7,7,4,0,0
+2025-07-20T18:11:15,U Schwartzkopffstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:11:15,Sportplatz Emdener Straße,not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T18:11:15,Jelbi Gertrud-Kolmar-Straße/Hannah-Arendt-Straße (MIT/GE),not_booked:bike_taken,0,0,0,7,3,3,10,7,0
+2025-07-20T18:11:15,Wrangelstraße/Mariannenplatz,not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T18:11:15,Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),not_booked:bike_taken,0,0,0,5,2,2,8,6,0
+2025-07-20T18:11:15,Breite Straße,not_booked:bike_taken,0,0,0,2,1,1,26,25,0
+2025-07-20T18:11:15,S Nöldnerplatz ,not_booked:bike_taken,0,0,0,12,10,10,15,5,0
+2025-07-20T18:11:15,Ackerstraße/Elisabethkirchstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:11:15,Arkonaplatz,not_booked:bike_taken,0,0,0,2,1,1,18,17,0
+2025-07-20T18:11:15,Jelbi Oberbaumbrücke (FHA/OB),not_booked:bike_taken,0,0,0,6,5,5,16,11,0
+2025-07-20T18:11:15,U Kleistpark (West),not_booked:bike_taken,0,0,0,13,12,12,4,0,0
+2025-07-20T18:11:15,U Weinmeisterstraße/Gormannstraße,not_booked:bike_taken,0,0,0,6,2,2,20,18,0
+2025-07-20T18:11:15,Jelbi U Bülowstraße (SCH/BU),not_booked:bike_taken,0,0,0,4,2,2,6,3,0
+2025-07-20T18:11:15,S Julius-Leber-Brücke (Nordost),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:11:15,U Weinmeisterstraße/Gormannstraße,not_booked:bike_taken,0,0,0,6,2,2,20,18,0
+2025-07-20T18:11:15,EDEKA Invalidenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:11:15,Jelbi Burgstraße/Friedrichsbrücke (MIT/FR),not_booked:bike_taken,0,0,0,9,7,7,18,11,0
+2025-07-20T18:11:15,Jelbi Ebertstraße/Hannah-Arendt-Straße (MIT/EH),not_booked:bike_taken,0,0,0,3,1,1,10,8,0
+2025-07-20T18:11:15,M Bernauer Straße/Wolliner Straße,not_booked:bike_taken,0,0,0,5,1,1,4,3,0
+2025-07-20T18:11:15,Jelbi Gertrud-Kolmar-Straße/Hannah-Arendt-Straße (MIT/GE),not_booked:bike_taken,0,0,0,7,3,3,10,7,0
+2025-07-20T18:11:15,M Bernauer Straße/Wolliner Straße,not_booked:bike_taken,0,0,0,5,1,1,4,3,0
+2025-07-20T18:11:15,Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),not_booked:bike_taken,0,0,0,5,2,2,8,6,0
+2025-07-20T18:11:15,Poststraße/Propststraße,not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T18:11:15,Jelbi Allerstraße (NEU/AL),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:11:15,Kurfürstendamm/Bornimer Straße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T18:11:15,Jelbi Sommerbad Neukölln (NEU/SO),not_booked:bike_taken,0,0,0,14,7,7,4,0,0
+2025-07-20T18:11:15,**Jelbi S+U Hauptbahnhof/Europaplatz Ost (MOA/EO),not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T18:11:15,Jelbi U Boddinstraße/Selchower Straße (NEU/UB),not_booked:bike_taken,0,0,0,3,2,2,12,10,0
+2025-07-20T18:11:15,M Bernauer Straße/Wolliner Straße,not_booked:bike_taken,0,0,0,5,1,1,4,3,0
+2025-07-20T18:11:15,Jelbi Charitéplatz (MIT/CP),not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T18:11:15,Geschwister Scholl Str.,not_booked:bike_taken,0,0,0,5,3,3,33,29,0
+2025-07-20T18:11:15,U Hansaplatz,not_booked:bike_taken,0,0,0,8,7,7,4,0,0
+2025-07-20T18:11:29,Rathaus Friedrichshain-Kreuzberg,booked:not_taken,14,1,0,2,2,2,20,18,0
+2025-07-20T18:11:15,Jelbi Rathausstraße/Berliner Fernsehturm (MIT/RB),not_booked:bike_taken,0,0,0,5,3,3,8,5,0
+2025-07-20T18:11:15,U Prinzenstraße,not_booked:bike_taken,0,0,0,18,17,17,12,0,0
+2025-07-20T18:11:15,Zenner,not_booked:bike_taken,0,0,0,9,8,8,5,0,0
+2025-07-20T18:11:15,Alte Jakobstraße/Lindenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:11:15,Jelbi Ebertstraße/Hannah-Arendt-Straße (MIT/EH),not_booked:bike_taken,0,0,0,3,1,1,10,8,0
+2025-07-20T18:11:29,M Danziger Straße/Winsstraße,booked:not_taken,14,1,0,1,1,1,10,9,0
+2025-07-20T18:11:15,Alt-Stralau/Krachtstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:11:15,Studierenden-Wohnheim Aristotelessteig,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:11:15,Köpenicker Landstraße/Schnellerstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:11:15,Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),not_booked:bike_taken,0,0,0,5,2,2,8,6,0
+2025-07-20T18:11:15,U Hermannplatz (Nord),not_booked:bike_taken,0,0,0,2,1,1,5,3,0
+2025-07-20T18:11:15,U Friedrichsfelde (Süd),not_booked:bike_taken,0,0,0,3,2,2,4,1,0
+2025-07-20T18:11:15,Jelbi U Bülowstraße (SCH/BU),not_booked:bike_taken,0,0,0,4,2,2,6,3,0
+2025-07-20T18:11:15,Jelbi Sommerbad Neukölln (NEU/SO),not_booked:bike_taken,0,0,0,14,7,7,4,0,0
+2025-07-20T18:11:29,U Südstern,not_booked:bike_taken,0,0,0,3,2,2,15,13,0
+2025-07-20T18:11:56,Katzbachstraße,booked:bike_taken,41,1,0,4,3,3,15,12,0
+2025-07-20T18:12:08,S Bundesplatz (Südwest),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:12:20,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,12,11,11,4,0,0
+2025-07-20T18:28:02,Str. des 17. Juni,booked:bike_taken,1007,1,0,4,3,3,16,13,0
+2025-07-20T18:28:02,S+U Wedding (Lindowerstraße),booked:bike_taken,1007,1,0,5,4,4,12,8,0
+2025-07-20T18:28:02,Pannierstraße,booked:not_taken,1007,1,0,1,1,1,10,8,0
+2025-07-20T18:28:02,Jelbi Simon-Dach-Straße/ Revaler Straße (FHA/SI),booked:not_taken,1007,1,0,1,1,1,5,4,0
+2025-07-20T18:28:02,Jelbi Bebelplatz (MIT/BB),booked:not_taken,1007,1,0,1,1,1,6,5,0
+2025-07-20T18:28:02,U Otisstraße (Nord),booked:bike_taken,1007,4,0,11,7,7,4,0,0
+2025-07-20T18:28:02,Charité Berlin (Luisenstraße),booked:not_taken,1007,1,0,2,2,2,8,6,0
+2025-07-20T18:28:02,Forster Straße/Reichenberger Straße,booked:bike_taken,1007,1,0,3,1,1,4,3,0
+2025-07-20T18:28:02,Gierkeplatz (Süd),booked:bike_taken,1007,2,1,2,1,0,4,3,0
+2025-07-20T18:28:02,Kranoldplatz (Bruno-Bauer-straße),booked:not_taken,1007,2,0,7,7,7,4,0,0
+2025-07-20T18:28:02,Jelbi S+U Brandenburger Tor/Unter den Linden (MIT/BU),booked:not_taken,1007,1,0,1,1,1,20,19,0
+2025-07-20T18:28:02,EDEKA Ulrich (Bernauer Straße),booked:bike_taken,1007,2,0,3,1,1,4,3,0
+2025-07-20T18:28:02,Hauptstraße (65),booked:not_taken,976,1,0,1,1,1,4,3,0
+2025-07-20T18:28:02,Vorarlberger Damm/Rubensstraße,booked:not_taken,1007,1,0,1,1,1,4,3,0
+2025-07-20T18:28:02,Schützallee (Clayallee),booked:not_taken,1007,1,0,2,2,2,4,2,0
+2025-07-20T18:28:02,Mommsenstraße/Wielandstraße,booked:not_taken,1007,1,0,1,1,1,4,3,0
+2025-07-20T18:12:32,Paul-Lincke-Ufer/Liegnitzer Straße,not_booked:bike_taken,0,0,0,4,2,2,7,5,0
+2025-07-20T18:28:02,U Prinzenstraße,not_booked:bike_taken,0,0,0,17,14,14,12,0,0
+2025-07-20T18:28:02,EDEKA Fiebig (Hasenheide),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:28:02,Jelbi S+U Hauptbahnhof/Heidestraße (MOA/HA),not_booked:bike_taken,0,0,0,14,6,6,8,2,0
+2025-07-20T18:28:02,Jelbi S+U Hauptbahnhof/Heidestraße (MOA/HA),not_booked:bike_taken,0,0,0,14,6,6,8,2,0
+2025-07-20T18:28:02,U Samariterstraße,not_booked:bike_taken,0,0,0,8,6,6,9,3,0
+2025-07-20T18:28:02,Steinplatz (West),not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T18:28:02,Jelbi S+U Hauptbahnhof/Heidestraße (MOA/HA),not_booked:bike_taken,0,0,0,14,6,6,8,2,0
+2025-07-20T18:28:02,S Bundesplatz (Südwest),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:02,Heckerdamm/Jungfernheideweg,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:02,U Oranienburger Tor (Hannoversche Straße),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:28:02,Storkower Straße/Paul-Junius-Straße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T18:28:02,U Gneisenaustraße,not_booked:bike_taken,0,0,0,2,1,1,7,6,0
+2025-07-20T18:28:02,Beusselstraße/Erasmusstraße,not_booked:bike_taken,0,0,0,3,2,2,4,1,0
+2025-07-20T18:28:02,U Nollendorfplatz (EDEKA),not_booked:bike_taken,0,0,0,10,9,9,16,6,0
+2025-07-20T18:28:02,Jelbi Huxleys Neue Welt (NEU/HU),not_booked:bike_taken,0,0,0,8,7,7,7,0,0
+2025-07-20T18:28:02,Jelbi S+U Hauptbahnhof/Heidestraße (MOA/HA),not_booked:bike_taken,0,0,0,14,6,6,8,2,0
+2025-07-20T18:28:02,VRAO 56 - Falckensteinstraße/Wrangelstraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,6,4,4,4,0,0
+2025-07-20T18:28:02,VRAO 31 - Mohrenstraße/Charlottenstraße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,5,4,4,6,2,0
+2025-07-20T18:28:02,S+U Alexanderplatz (Dircksenstraße),not_booked:bike_taken,0,0,0,3,2,2,13,11,0
+2025-07-20T18:28:02,Jelbi S+U Hauptbahnhof/Heidestraße (MOA/HA),not_booked:bike_taken,0,0,0,14,6,6,8,2,0
+2025-07-20T18:28:02,Jelbi U Warschauer Straße/ Rudolfstraße (FHA/RU),not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T18:28:02,Nauheimer Straße/Binger Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:02,VRAO 65 - Görlitzer Straße/Cuvrystraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T18:28:02,Jelbi Leinestraße (NEU/LE),not_booked:bike_taken,0,0,0,3,2,2,4,1,0
+2025-07-20T18:28:02,Teufelsseechaussee (Parkplatz),not_booked:bike_taken,0,0,0,10,8,8,4,0,0
+2025-07-20T18:28:02,Pallasstraße (Ost),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:02,Nalepastraße (Funkhaus),not_booked:bike_taken,0,0,0,8,7,7,4,0,0
+2025-07-20T18:28:02,U Magdalenenstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:28:02,U Prinzenstraße,not_booked:bike_taken,0,0,0,17,14,14,12,0,0
+2025-07-20T18:28:02,Peter-Strasser-Weg (Tempelhofer Feld West),not_booked:bike_taken,0,0,0,6,3,3,4,1,0
+2025-07-20T18:28:02,EDEKA Fromm (S+U Wedding),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:28:02,Jelbi Zimmerstraße/Friedrichstraße (MIT/ZF),not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T18:28:02,VRAO 56 - Falckensteinstraße/Wrangelstraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,6,4,4,4,0,0
+2025-07-20T18:28:02,M Mauerpark,not_booked:bike_taken,0,0,0,10,9,9,18,9,0
+2025-07-20T18:28:02,U Prinzenstraße,not_booked:bike_taken,0,0,0,17,14,14,12,0,0
+2025-07-20T18:28:02,Jelbi S+U Hauptbahnhof/Heidestraße (MOA/HA),not_booked:bike_taken,0,0,0,14,6,6,8,2,0
+2025-07-20T18:28:02,Weserstraße/Wildenbruchstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:02,Fürstenwalder Damm/Müggelseedamm,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:02,Jelbi S+U Hauptbahnhof/Heidestraße (MOA/HA),not_booked:bike_taken,0,0,0,14,6,6,8,2,0
+2025-07-20T18:28:02,Reinhardtstraße/Südpanke,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:02,U Kleistpark (West),not_booked:bike_taken,0,0,0,13,11,11,4,0,0
+2025-07-20T18:28:02,Jelbi S+U Hauptbahnhof/Heidestraße (MOA/HA),not_booked:bike_taken,0,0,0,14,6,6,8,2,0
+2025-07-20T18:28:02,Peter-Strasser-Weg (Tempelhofer Feld West),not_booked:bike_taken,0,0,0,6,3,3,4,1,0
+2025-07-20T18:28:02,Peter-Strasser-Weg (Tempelhofer Feld West),not_booked:bike_taken,0,0,0,6,3,3,4,1,0
+2025-07-20T18:28:02,Stralauer Allee/Bossestraße,not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T18:28:02,Steinplatz (West),not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T18:28:02,Jelbi U Weinmeisterstraße (MIT/WE),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:02,S Nordbahnhof,not_booked:bike_taken,0,0,0,3,2,2,15,13,0
+2025-07-20T18:28:02,Wilhelminienhofstraße/Marienstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T18:28:02,Prenzlauer Promenade/Kissingenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:02,EDEKA S Greifwalder Straße (West),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:28:02,U Prinzenstraße,not_booked:bike_taken,0,0,0,17,14,14,12,0,0
+2025-07-20T18:28:02,Aronsstraße (Weiße Siedlung),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:02,U Südstern,not_booked:bike_taken,0,0,0,2,1,1,15,14,0
+2025-07-20T18:28:02,Wrangelstraße/Mariannenplatz,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:28:02,Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T18:28:02,Sewanstraße/Erieseering,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:28:02,Hermann-Hesse-Straße/Waldstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:02,Wilhelminienhofstraße/Marienstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T18:28:02,EDEKA Siegler (Richard-von-Weizsäcker-Platz),not_booked:bike_taken,0,0,0,8,7,7,4,0,0
+2025-07-20T18:28:02,Teufelsseechaussee (Parkplatz),not_booked:bike_taken,0,0,0,10,8,8,4,0,0
+2025-07-20T18:28:02,Paul-Lincke-Ufer/Liegnitzer Straße,not_booked:bike_taken,0,0,0,2,1,1,7,6,0
+2025-07-20T18:28:02,Munsterdamm (Sommerbad am Insulaner),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:02,Paul-Lincke-Ufer/Liegnitzer Straße,not_booked:bike_taken,0,0,0,2,1,1,7,6,0
+2025-07-20T18:28:02,Schwimmbad Seestraße,not_booked:bike_taken,0,0,0,3,2,2,10,8,0
+2025-07-20T18:28:02,Kleine Eiswerderstraße/Daumstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:28:02,Kunsthochschule Berlin-Weißensee,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:28:02,Lichtenberger Straße/Singerstraße,not_booked:bike_taken,0,0,0,2,1,1,10,8,0
+2025-07-20T18:28:02,EDEKA Moch (Voltairestraße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:02,Jelbi Memhardstraße/Rosa-Luxemburg-Straße (MIT/ME),not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T18:28:02,U Kleistpark (West),not_booked:bike_taken,0,0,0,13,11,11,4,0,0
+2025-07-20T18:28:02,EDEKA Wiesbadener Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:02,U Weinmeisterstraße/Gormannstraße,not_booked:bike_taken,0,0,0,2,1,1,20,19,0
+2025-07-20T18:28:02,U Samariterstraße,not_booked:bike_taken,0,0,0,8,6,6,9,3,0
+2025-07-20T18:28:07,Str. des 17. Juni,not_booked:bike_taken,0,0,0,3,2,2,16,14,0
+2025-07-20T18:28:38,U Magdalenenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:28:38,Tegelerstraße/Lynarstraße,not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T18:28:50,Jelbi Neue Wache (MIT/NE),booked:not_taken,48,1,0,1,1,1,10,9,0
+2025-07-20T18:29:01,Jelbi Alte Schönhauser Straße/Linienstraße (MIT/LI),not_booked:bike_taken,0,0,0,2,1,1,7,6,0
+2025-07-20T18:29:14,Weißer See (Indira-Gandhi-Straße),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:44:49,M Prenzlauer Allee,booked:not_taken,1007,1,0,1,1,1,18,17,0
+2025-07-20T18:44:49,U Märkisches Museum,booked:not_taken,1007,1,0,3,4,4,12,8,0
+2025-07-20T18:44:49,Fasanenstraße/Hertzallee,booked:bike_taken,935,1,0,11,10,10,4,0,0
+2025-07-20T18:44:49,Calvinstraße,booked:not_taken,2014,1,0,1,2,2,10,8,0
+2025-07-20T18:44:49,Jelbi S+U Zoologischer Garten/Joachimsthaler Str. (CHA/JO),booked:not_taken,1994,1,0,1,2,2,15,13,0
+2025-07-20T18:44:49,Jelbi Platz des 18. März/Ahornsteig (TIE/PA),booked:bike_taken,1007,2,0,4,1,1,12,11,0
+2025-07-20T18:44:49,S+U Jannowitzbrücke (Süd),booked:not_taken,971,1,0,1,2,2,4,2,0
+2025-07-20T18:44:49,Jelbi U Bülowstraße (SCH/BU),booked:bike_taken,1007,2,0,3,1,1,6,4,0
+2025-07-20T18:44:49,**DB Mobility Hub S+U Gesundbrunnen,booked:not_taken,1007,1,0,1,1,1,7,6,0
+2025-07-20T18:44:49,Jelbi U Walther-Scheiber-Platz/Lefèvrestraße (FRI/LE),booked:bike_taken,971,1,0,2,1,1,7,6,0
+2025-07-20T18:44:55,virtuell - S Treptower Park (Puschkinallee/Elsenstraße),booked:not_taken,6,1,0,1,1,1,5,3,0
+2025-07-20T18:44:49,Möllendorffstr./Rathaus Lichtenberg,not_booked:bike_taken,0,0,0,4,2,2,8,6,0
+2025-07-20T18:44:49,**S Ostbahnhof,not_booked:bike_taken,0,0,0,2,1,1,13,12,0
+2025-07-20T18:44:49,U Rathaus Neukölln (Boddinstraße),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:44:49,Jelbi Campus Buch/D79 (BUC/D79),not_booked:bike_taken,0,0,0,5,4,4,10,6,0
+2025-07-20T18:44:49,Maybachufer,not_booked:bike_taken,0,0,0,3,1,1,12,11,0
+2025-07-20T18:44:49,U Prinzenstraße,not_booked:bike_taken,0,0,0,14,12,12,12,0,0
+2025-07-20T18:44:49,S Wollankstraße (Sternstraße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,Str. des 17. Juni,not_booked:bike_taken,0,0,0,2,1,1,16,15,0
+2025-07-20T18:44:49,Mommsenstadion,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:44:49,Pohlstrasse,not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T18:44:49,Jelbi Mohrenstraße/Friedrichstraße (MIT/MO),not_booked:bike_taken,0,0,0,3,1,1,8,7,0
+2025-07-20T18:44:49,Gertrudstraße (Strandbad Orankesee),not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T18:44:49,U Hermannplatz/Hasenheide,not_booked:bike_taken,0,0,0,3,2,2,8,4,0
+2025-07-20T18:44:49,Jelbi Hasenheide/Graefestraße (KRE/HA),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,**Helsingforser Platz (S Warschauer Straße),not_booked:bike_taken,0,0,0,10,8,8,12,4,0
+2025-07-20T18:44:49,**DB Mobility Hub S Südkreuz (Erika-Gräfin-von-Brockdorff-Platz),not_booked:bike_taken,0,0,0,3,1,1,20,19,0
+2025-07-20T18:44:49,Heidekampweg/Wohlgemuthstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:44:49,Bersarinplatz (Süd),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,S Baumschulenweg (Südost),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,Gertrudstraße (Strandbad Orankesee),not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T18:44:49,U Prinzenstraße,not_booked:bike_taken,0,0,0,14,12,12,12,0,0
+2025-07-20T18:44:49,**Helsingforser Platz (S Warschauer Straße),not_booked:bike_taken,0,0,0,10,8,8,12,4,0
+2025-07-20T18:44:49,Gustav-Meyer-Allee/Hussitenstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:44:49,VRAO 56 - Falckensteinstraße/Wrangelstraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,4,0,0
+2025-07-20T18:44:49,Weserstraße/Roseggerstraße,not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T18:44:49,Jelbi Museum für Kommunikation (MIT/MU),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:44:49,Döberitzer Verbindung,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,Jelbi Mariannenstraße/ Skalitzer Straße (KRE/MA),not_booked:bike_taken,0,0,0,4,2,2,6,4,0
+2025-07-20T18:44:49,Jelbi U Nollendorfplatz/Kleiststraße (SCH/UN),not_booked:bike_taken,0,0,0,9,6,6,6,0,0
+2025-07-20T18:44:49,Jelbi U Nollendorfplatz/Kleiststraße (SCH/UN),not_booked:bike_taken,0,0,0,9,6,6,6,0,0
+2025-07-20T18:44:49,Jelbi Rio-Reiser-Platz (KRE/RI),not_booked:bike_taken,0,0,0,4,3,3,12,9,0
+2025-07-20T18:44:49,**S Ostbahnhof,not_booked:bike_taken,0,0,0,2,1,1,13,12,0
+2025-07-20T18:44:49,Jelbi Mohrenstraße/Friedrichstraße (MIT/MO),not_booked:bike_taken,0,0,0,3,1,1,8,7,0
+2025-07-20T18:44:49,Wrangelstraße,not_booked:bike_taken,0,0,0,7,6,6,13,7,0
+2025-07-20T18:44:49,**DB Mobility Hub S Südkreuz (Erika-Gräfin-von-Brockdorff-Platz),not_booked:bike_taken,0,0,0,3,1,1,20,19,0
+2025-07-20T18:44:49,Jelbi Freie Universität/Fabeckstraße (DAH/FA),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,Jelbi Mariannenstraße/ Skalitzer Straße (KRE/MA),not_booked:bike_taken,0,0,0,4,2,2,6,4,0
+2025-07-20T18:44:49,Steinplatz (West),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:44:49,Defreggerstraße/Karpfenteichstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,Jelbi Weisestraße/Herrfurthstraße (NEU/WE),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T18:44:49,Schwedter Straße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T18:44:49,Jelbi Leinestraße (NEU/LE),not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T18:44:49,VRAO 30 - Friedrichsstraße/Schützenstraße/Ost (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T18:44:49,Kurfürstendamm/Bornimer Straße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T18:44:49,U Rathaus Neukölln (Boddinstraße),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:44:49,Jelbi U Nollendorfplatz/Kleiststraße (SCH/UN),not_booked:bike_taken,0,0,0,9,6,6,6,0,0
+2025-07-20T18:44:49,Jelbi U Alexanderplatz/Bernhard-Weiß-Straße (MIT/AB),not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T18:44:49,Mellenseestraße/Sewanstraße (Süd),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,Kurfürstendamm/Bornimer Straße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T18:44:49,Pohlstrasse,not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T18:44:49,Jelbi Memhardstraße/Rosa-Luxemburg-Straße (MIT/ME),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T18:44:49,EDEKA Fiebig (Hasenheide),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,U Kleistpark (West),not_booked:bike_taken,0,0,0,11,8,8,4,0,0
+2025-07-20T18:44:49,U Kleistpark (West),not_booked:bike_taken,0,0,0,11,8,8,4,0,0
+2025-07-20T18:44:49,Potsdamer Str./Eichhornstr.,not_booked:bike_taken,0,0,0,2,1,1,6,4,0
+2025-07-20T18:44:49,U Samariterstraße,not_booked:bike_taken,0,0,0,6,5,5,9,4,0
+2025-07-20T18:44:49,Puschkinallee/Eichenstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:44:49,Hönower Straße/Cäsarstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,Bulgarische Straße/Neue Krugallee,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T18:44:49,Potsdamer Str./Eichhornstr.,not_booked:bike_taken,0,0,0,2,1,1,6,4,0
+2025-07-20T18:44:49,VRAO 45 - U Tierpark (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,6,4,4,4,0,0
+2025-07-20T18:44:49,S Karlshorst (Am Carlsgarten),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,Wolfshagener Straße (Sommerbad Pankow),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,Weserstraße/Roseggerstraße,not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T18:44:49,Stromstraße (IPU / Lessingbrücke),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,VRAO 45 - U Tierpark (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,6,4,4,4,0,0
+2025-07-20T18:44:49,VRAO 56 - Falckensteinstraße/Wrangelstraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,4,0,0
+2025-07-20T18:44:49,Maybachufer,not_booked:bike_taken,0,0,0,3,1,1,12,11,0
+2025-07-20T18:44:49,**DB Mobility Hub S Südkreuz (EDEKA Südkreuz/Lotte-Laserstein-Straße),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T18:44:49,U Kleistpark (West),not_booked:bike_taken,0,0,0,11,8,8,4,0,0
+2025-07-20T18:44:49,Möllendorffstr./Rathaus Lichtenberg,not_booked:bike_taken,0,0,0,4,2,2,8,6,0
+2025-07-20T18:44:49,Jelbi Spandauer Str./Marx-Engels-Forum (MIT/MX),not_booked:bike_taken,0,0,0,5,3,3,14,11,0
+2025-07-20T18:44:49,Grellstraße/Gubitzstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,VRAO 28 - Friedrichstraße/Schiffbauerdamm (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,3,1,1,6,4,0
+2025-07-20T18:44:49,Jelbi Spandauer Str./Marx-Engels-Forum (MIT/MX),not_booked:bike_taken,0,0,0,5,3,3,14,11,0
+2025-07-20T18:44:49,S Schlachtensee (Nordost),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T18:44:49,VRAO 28 - Friedrichstraße/Schiffbauerdamm (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,3,1,1,6,4,0
+2025-07-20T18:44:49,Nalepastraße (Funkhaus),not_booked:bike_taken,0,0,0,7,6,6,4,0,0
+2025-07-20T18:44:55,Bulgarische Straße/Abteilbrücke,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T18:44:55,Bulgarische Straße/Abteilbrücke,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T18:45:10,U Paradestraße (Südwest),booked:not_taken,21,1,0,2,2,2,4,1,0
+2025-07-20T18:45:10,Modersohnstraße (Am Rudolfplatz),booked:not_taken,2035,1,1,1,1,0,4,3,0
+2025-07-20T18:45:10,Warthestraße (Wartheplatz/Ost),booked:bike_taken,21,2,1,3,2,1,4,2,0
+2025-07-20T18:45:21,Weserstraße/Wildenbruchstraße,booked:not_taken,32,1,0,1,1,1,4,3,0
+2025-07-20T18:45:21,U Paradestraße (Südwest),not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T18:45:21,U Paradestraße (Südwest),not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T19:00:57,Pannierstraße,booked:not_taken,968,1,0,1,2,2,10,7,0
+2025-07-20T19:00:57,Wilhelmstraße/Robinenwäldchen,booked:not_taken,968,1,0,1,1,1,26,25,0
+2025-07-20T19:00:57,EDEKA Wittenbergplatz,booked:not_taken,968,1,0,1,1,1,4,3,0
+2025-07-20T19:00:57,S+U Tempelhof (Nordost),booked:not_taken,968,1,0,3,3,3,5,2,0
+2025-07-20T19:00:57,Neue Bahnhofstraße/Boxhagener Straße (Süd),booked:not_taken,1975,1,0,1,2,2,4,2,0
+2025-07-20T19:00:57,Reichstagsufer/Paul-Löbe-Allee,booked:not_taken,968,1,0,1,1,1,6,5,0
+2025-07-20T19:00:57,Leibnizstraße/Pestalozzistraße,booked:bike_taken,968,1,0,2,1,1,4,3,0
+2025-07-20T19:00:57,Gervinusstraße/Droysenstraße,booked:not_taken,968,1,0,1,1,1,4,3,0
+2025-07-20T19:00:57,S Charlottenburg (Südwest),booked:not_taken,968,1,0,1,1,1,4,3,0
+2025-07-20T19:00:57,Medaillonplatz/An der Bucht,booked:not_taken,968,1,0,1,1,1,4,3,0
+2025-07-20T19:00:57,Schwedter Straße/Korsörer Straße,booked:not_taken,968,1,0,1,1,1,4,3,0
+2025-07-20T19:00:57,Jelbi Zimmerstraße/Friedrichstraße (MIT/ZF),booked:not_taken,968,1,0,1,1,1,5,4,0
+2025-07-20T19:00:57,**Jelbi S+U Hauptbahnhof/Europaplatz West (MOA/EW),booked:bike_taken,968,1,0,7,6,6,28,21,0
+2025-07-20T19:00:57,**Jelbi S+U Hauptbahnhof/Europaplatz West (MOA/EW),booked:bike_taken,947,2,0,7,6,6,28,21,0
+2025-07-20T19:00:57,Jelbi Zimmerstraße/Wilhelmstraße (MIT/ZW),booked:not_taken,968,1,0,3,3,3,4,1,0
+2025-07-20T19:00:57,Kopenhagener Straße/Ystader Straße,booked:not_taken,968,1,0,1,1,1,4,3,0
+2025-07-20T19:00:57,Palisadenstraße/Koppenstraße,booked:not_taken,968,1,0,1,1,1,4,3,0
+2025-07-20T19:00:57,Warthestraße (Wartheplatz/Ost),booked:bike_taken,968,2,0,2,1,1,4,3,0
+2025-07-20T19:00:57,Seestraße/Nordufer,booked:bike_taken,968,1,0,10,9,9,4,0,0
+2025-07-20T19:00:57,Heinrich-Heine Platz,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,U Nollendorfplatz (EDEKA),not_booked:bike_taken,0,0,0,9,8,8,16,7,0
+2025-07-20T19:00:57,U Schwartzkopffstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,Rathausstraße/Dottistraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:00:57,EDEKA Urbschat (U Siemensdamm),not_booked:bike_taken,0,0,0,6,3,3,4,1,0
+2025-07-20T19:00:57,"HfS ""Ernst Busch"" (Süd)",not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:00:57,U Hermannplatz/Hasenheide,not_booked:bike_taken,0,0,0,2,1,1,8,5,0
+2025-07-20T19:00:57,Perleberger Straße/Stendalstraße,not_booked:bike_taken,0,0,0,9,7,7,4,0,0
+2025-07-20T19:00:57,U Märkisches Museum,not_booked:bike_taken,0,0,0,4,3,3,12,9,0
+2025-07-20T19:00:57,Jelbi Grünberger Höfe (FHA/GR),not_booked:bike_taken,0,0,0,2,1,1,7,6,0
+2025-07-20T19:00:57,Jelbi Eisenacher Straße/Nollendorfstraße (SCH/EI),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T19:00:57,Jelbi Lichtensteinallee/Café am Neuen See (TIE/LI),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T19:00:57,Rudi-Dutschke-Straße,not_booked:bike_taken,0,0,0,4,3,3,12,8,0
+2025-07-20T19:00:57,EDEKA Fromm (S+U Wedding),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:00:57,Jelbi Graefestraße/Planufer (KRE/GP),not_booked:bike_taken,0,0,0,3,1,1,6,4,0
+2025-07-20T19:00:57,Olympiastadion Berlin (Olympischer Platz Süd),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:00:57,Alt-Stralau/Bootsbauerstraße,not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T19:00:57,Weserstaße (93),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:00:57,M Mauerpark,not_booked:bike_taken,0,0,0,9,7,7,18,11,0
+2025-07-20T19:00:57,U Adenauerplatz (Südwest),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,Jelbi Burgstraße/Friedrichsbrücke (MIT/FR),not_booked:bike_taken,0,0,0,9,7,7,18,11,0
+2025-07-20T19:00:57,U Kurt-Schumacher-Platz (Ost),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,Oderbergerstraße 1 (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T19:00:57,Zenner,not_booked:bike_taken,0,0,0,9,8,8,5,0,0
+2025-07-20T19:00:57,Büschingstraße/Friedenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,Jelbi Burgstraße/Friedrichsbrücke (MIT/FR),not_booked:bike_taken,0,0,0,9,7,7,18,11,0
+2025-07-20T19:00:57,U Prinzenstraße,not_booked:bike_taken,0,0,0,12,11,11,12,1,0
+2025-07-20T19:00:57,Sewanstraße/Michiganseestraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,U Prinzenstraße (Moritzstraße),not_booked:bike_taken,0,0,0,9,6,6,4,0,0
+2025-07-20T19:00:57,S Wuhlheide (Süd),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:00:57,U Prinzenstraße (Moritzstraße),not_booked:bike_taken,0,0,0,9,6,6,4,0,0
+2025-07-20T19:00:57,U Spittelmarkt (West),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:00:57,U Oranienburger Tor (Hannoversche Straße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,U Prinzenstraße,not_booked:bike_taken,0,0,0,12,11,11,12,1,0
+2025-07-20T19:00:57,Karl-Marx Allee,not_booked:bike_taken,0,0,0,10,9,9,16,7,0
+2025-07-20T19:00:57,M Mauerpark,not_booked:bike_taken,0,0,0,9,7,7,18,11,0
+2025-07-20T19:00:57,Jelbi Admiralbrücke (KRE/ADM),not_booked:bike_taken,0,0,0,2,1,1,11,10,0
+2025-07-20T19:00:57,Paul-Linke-Ufer/Ohlauer Straße,not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T19:00:57,Puschkinallee/Eichenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,Suarezstraße/Kuno-Fischer-Straße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:00:57,Hardenbergstraße (Universität der Künste),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T19:00:57,EDEKA Stresemannstraße,not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T19:00:57,Jelbi S+U Hauptbahnhof/Heidestraße (MOA/HA),not_booked:bike_taken,0,0,0,6,5,5,8,3,0
+2025-07-20T19:00:57,Leipziger Straße/Markgrafenstraße,not_booked:bike_taken,0,0,0,4,2,2,6,4,0
+2025-07-20T19:00:57,Heckmannufer,not_booked:bike_taken,0,0,0,17,15,15,4,0,0
+2025-07-20T19:00:57,Jelbi U Amrumer Straße (WED/AMR),not_booked:bike_taken,0,0,0,6,5,5,8,3,0
+2025-07-20T19:00:57,DAV Kletterzentrum,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T19:00:57,U Otisstraße (Nord),not_booked:bike_taken,0,0,0,7,5,5,4,0,0
+2025-07-20T19:00:57,Wexstraße/Kufsteiner Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,Quitzowstr.,not_booked:bike_taken,0,0,0,5,4,4,5,1,0
+2025-07-20T19:00:57,Neue Hochstraße,not_booked:bike_taken,0,0,0,4,3,3,14,11,0
+2025-07-20T19:00:57,Jelbi S Buch/P+R-Parkplatz (BUC/BP),not_booked:bike_taken,0,0,0,50,48,48,40,0,0
+2025-07-20T19:00:57,Jelbi U Nollendorfplatz/Kleiststraße (SCH/UN),not_booked:bike_taken,0,0,0,6,5,5,6,1,0
+2025-07-20T19:00:57,Jelbi Oberbaumbrücke (FHA/OB),not_booked:bike_taken,0,0,0,6,4,4,16,12,0
+2025-07-20T19:00:57,Florastraße/Wollankstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,VRAO 45 - U Tierpark (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:00:57,U Prinzenstraße (Moritzstraße),not_booked:bike_taken,0,0,0,9,6,6,4,0,0
+2025-07-20T19:00:57,Jelbi Lichtensteinallee/Café am Neuen See (TIE/LI),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T19:00:57,Hardenbergstraße (Universität der Künste),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T19:00:57,U Birkenstraße (Südwest),not_booked:bike_taken,0,0,0,2,1,1,6,4,0
+2025-07-20T19:00:57,Calvinstraße,not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T19:00:57,HTW CAMPUS Schöneweide (Osmar-Klemm-Straße/Peter-Behrens-Straße),not_booked:bike_taken,0,0,0,9,8,8,4,0,0
+2025-07-20T19:00:57,Sophienstraße/Weitlingstraße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:00:57,VRAO 71 - Oberwallstraße/Hausvogteiplatz (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:00:57,Heckmannufer,not_booked:bike_taken,0,0,0,17,15,15,4,0,0
+2025-07-20T19:00:57,U Rathaus Neukölln (Boddinstraße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,Perleberger Straße/Stendalstraße,not_booked:bike_taken,0,0,0,9,7,7,4,0,0
+2025-07-20T19:00:57,Jelbi Campus Buch/Lindenberger Weg 2 (BUC/LIN),not_booked:bike_taken,0,0,0,2,1,1,12,11,0
+2025-07-20T19:00:57,EDEKA Urbschat (U Siemensdamm),not_booked:bike_taken,0,0,0,6,3,3,4,1,0
+2025-07-20T19:00:57,Jelbi Oberbaumbrücke (FHA/OB),not_booked:bike_taken,0,0,0,6,4,4,16,12,0
+2025-07-20T19:00:57,Jelbi Kalckreuthstraße/Kleiststraße (SCH/KA),not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T19:00:57,U Otisstraße (Nord),not_booked:bike_taken,0,0,0,7,5,5,4,0,0
+2025-07-20T19:00:57,EDEKA Budapester Straße,not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T19:00:57,virtuell – Böcklerpark,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:00:57,Glienicker Straße (Grünauer Straße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,Lehrter Straße (51),not_booked:bike_taken,0,0,0,4,2,2,4,1,0
+2025-07-20T19:00:57,Heinrich-Heine Platz,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,Wrangelstraße,not_booked:bike_taken,0,0,0,6,5,5,13,8,0
+2025-07-20T19:00:57,Jelbi Graefestraße/Planufer (KRE/GP),not_booked:bike_taken,0,0,0,3,1,1,6,4,0
+2025-07-20T19:00:57,U Nollendorfplatz (EDEKA),not_booked:bike_taken,0,0,0,9,8,8,16,7,0
+2025-07-20T19:00:57,Lehrter Straße (51),not_booked:bike_taken,0,0,0,4,2,2,4,1,0
+2025-07-20T19:00:57,Paul-Linke-Ufer/Ohlauer Straße,not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T19:00:57,Jelbi S Buch/P+R-Parkplatz (BUC/BP),not_booked:bike_taken,0,0,0,50,48,48,40,0,0
+2025-07-20T19:00:57,DAV Kletterzentrum,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T19:00:57,Jelbi Marchlewskistraße/ Revaler Straße (FHA/MA),not_booked:bike_taken,0,0,0,3,2,2,7,5,0
+2025-07-20T19:00:57,Berthelsdorfer Straße/Richardstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:00:57,Tannhäuserstraße/Odinstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,Alt-Stralau/Bootsbauerstraße,not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T19:00:57,Forckenbeckstraße/Helene-Jacobs-Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:00:57,Leipziger Straße/Markgrafenstraße,not_booked:bike_taken,0,0,0,4,2,2,6,4,0
+2025-07-20T19:01:12,VRAO 37 - Altonaer Straße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T19:01:37,virtuell –Weichselpark,booked:not_taken,40,1,0,1,1,1,4,3,0
+2025-07-20T19:01:32,Karl-Marx Allee,not_booked:bike_taken,0,0,0,10,9,9,16,7,0
+2025-07-20T19:01:32,Jelbi S Buch/P+R-Parkplatz (BUC/BP),not_booked:bike_taken,0,0,0,48,47,47,40,0,0
+2025-07-20T19:01:37,Jelbi S Buch/P+R-Parkplatz (BUC/BP),not_booked:bike_taken,0,0,0,47,46,46,40,0,0
+2025-07-20T19:02:01,Geschwister Scholl Str.,booked:not_taken,64,1,0,5,5,5,33,27,0
+2025-07-20T19:01:49,Weißer See (Indira-Gandhi-Straße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:02:13,Fehrbelliner Straße/Weinbergsweg,booked:bike_taken,76,1,0,2,1,1,4,3,0
+2025-07-20T19:17:44,M Prenzlauer Allee,booked:not_taken,1007,1,0,2,2,2,18,16,0
+2025-07-20T19:17:44,Danziger Straße/Lychener Straße,booked:not_taken,1007,1,0,1,1,1,20,19,0
+2025-07-20T19:17:44,Bundeswehrkrankenhaus,booked:not_taken,1007,1,0,1,1,1,15,14,0
+2025-07-20T19:17:44,Jelbi Trebbiner Straße (KRE/TR),booked:bike_taken,1007,1,0,2,1,1,10,9,0
+2025-07-20T19:17:44,U Rehberge,booked:not_taken,1007,1,0,1,1,1,4,3,0
+2025-07-20T19:17:44,S Südkreuz (Südost),booked:not_taken,1007,2,0,2,4,4,6,2,0
+2025-07-20T19:17:44,S Baumschulenweg (West),booked:not_taken,1007,1,0,1,1,1,4,3,0
+2025-07-20T19:17:44,EDEKA Kollwitzstraße,booked:not_taken,1007,1,0,1,1,1,4,3,0
+2025-07-20T19:17:44,Park Center (Ost),booked:not_taken,1007,1,0,1,1,1,4,3,0
+2025-07-20T19:17:44,Amtsgerichtsplatz,booked:bike_taken,967,1,0,4,3,3,4,1,0
+2025-07-20T19:17:44,Jelbi Kienitzer Straße/Schillerpromenade (NEU/KS),booked:not_taken,1007,1,0,1,1,1,6,5,0
+2025-07-20T19:17:44,Bugenhagenstraße/Bremer Straße,booked:bike_taken,1007,2,1,2,1,0,4,3,0
+2025-07-20T19:17:44,Stargarder Straße 72 (Abstellfläche-Mikromobilität),booked:bike_taken,972,1,0,4,2,2,6,4,0
+2025-07-20T19:17:44,Stargarder Straße 72 (Abstellfläche-Mikromobilität),booked:bike_taken,955,2,0,4,2,2,6,4,0
+2025-07-20T19:17:44,S Schlachtensee (Nordost),booked:not_taken,1007,1,0,1,1,1,4,3,0
+2025-07-20T19:17:44,Möckernstraße/Hornstraße,booked:not_taken,1007,2,0,3,3,3,4,1,0
+2025-07-20T19:17:44,Teufelsseechaussee (Parkplatz),booked:bike_taken,1007,1,0,7,5,5,4,0,0
+2025-07-20T19:17:49,Jelbi Spandauer Str./Marx-Engels-Forum (MIT/MX),booked:not_taken,5,1,0,2,2,2,14,12,0
+2025-07-20T19:17:44,S+U Tempelhof (Nordost),not_booked:bike_taken,0,0,0,3,1,1,5,4,0
+2025-07-20T19:17:44,Grimmstraße,not_booked:bike_taken,0,0,0,2,1,1,12,11,0
+2025-07-20T19:17:44,S Savignyplatz (West),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:17:44,Firlstraße/Wilhelminenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T19:17:44,Eichenstraße/Martin-Hoffmann-Straße,not_booked:bike_taken,0,0,0,4,3,3,10,7,0
+2025-07-20T19:17:44,M Mauerpark,not_booked:bike_taken,0,0,0,7,5,5,18,13,0
+2025-07-20T19:17:44,S+U Tempelhof (Nordost),not_booked:bike_taken,0,0,0,3,1,1,5,4,0
+2025-07-20T19:17:44,U Hansaplatz,not_booked:bike_taken,0,0,0,7,6,6,4,0,0
+2025-07-20T19:17:44,Naumannstraße/Gustav-Müller-Platz,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:17:44,Rüdersdorfer Straße (Wriezener Park),not_booked:bike_taken,0,0,0,9,7,7,4,0,0
+2025-07-20T19:17:44,U Stadtmitte,not_booked:bike_taken,0,0,0,9,8,8,15,7,0
+2025-07-20T19:17:44,Hardenbergstraße (Universität der Künste),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:17:44,Forckenbeckstraße (Sommerbad Wilmersdorf),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:17:44,Rüdersdorfer Straße (Wriezener Park),not_booked:bike_taken,0,0,0,9,7,7,4,0,0
+2025-07-20T19:17:44,Einsteinufer/Marchstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:17:44,Paul-Lincke-Ufer/Liegnitzer Straße,not_booked:bike_taken,0,0,0,6,5,5,7,2,0
+2025-07-20T19:17:44,Hertha-Block-Promenade/Wilhelm-Kabus-Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:17:44,Columbiadamm,not_booked:bike_taken,0,0,0,8,6,6,5,0,0
+2025-07-20T19:17:44,U Nollendorfplatz (EDEKA),not_booked:bike_taken,0,0,0,8,6,6,16,9,0
+2025-07-20T19:17:44,Virchowstraße,not_booked:bike_taken,0,0,0,3,2,2,14,12,0
+2025-07-20T19:17:44,U Prinzenstraße (Moritzstraße),not_booked:bike_taken,0,0,0,6,5,5,4,0,0
+2025-07-20T19:17:44,Kranoldplatz (Bruno-Bauer-straße),not_booked:bike_taken,0,0,0,7,5,5,4,0,0
+2025-07-20T19:17:44,Haus der Kulturen,not_booked:bike_taken,0,0,0,4,1,1,4,3,0
+2025-07-20T19:17:44,Heckmannufer,not_booked:bike_taken,0,0,0,15,13,13,4,0,0
+2025-07-20T19:17:44,S Landsberger Allee,not_booked:bike_taken,0,0,0,5,3,3,5,2,0
+2025-07-20T19:17:44,Steinplatz (Ost),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:17:44,VRAO 54 - Mühlenstraße/Straße der Pariser Kommune (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:17:44,Jelbi Hohenstaufenplatz/Dieffenbachstraße (KRE/HO),not_booked:bike_taken,0,0,0,3,2,2,16,14,0
+2025-07-20T19:17:44,Columbiadamm,not_booked:bike_taken,0,0,0,8,6,6,5,0,0
+2025-07-20T19:17:44,M Scharnweberstraße/Weichselstraße,not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T19:17:44,Haus der Kulturen,not_booked:bike_taken,0,0,0,4,1,1,4,3,0
+2025-07-20T19:17:44,U Nollendorfplatz (EDEKA),not_booked:bike_taken,0,0,0,8,6,6,16,9,0
+2025-07-20T19:17:44,Zwieseler Straße/Rheinpfalzallee,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:17:44,M Wilheminenhofstraße/Edisonstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:17:44,Chausseestraße/Liesenstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:17:44,VRAO 18 - U Rosenthaler Platz/Weinbergsweg (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T19:17:44,U Prinzenstraße,not_booked:bike_taken,0,0,0,11,9,9,12,3,0
+2025-07-20T19:17:44,Onkel-Tom-Straße (Rodelhütte),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:17:44,Jelbi Selchower Straße/Schillerpromenade (NEU/SE),not_booked:bike_taken,0,0,0,4,3,3,9,6,0
+2025-07-20T19:17:44,Kranoldplatz (Bruno-Bauer-straße),not_booked:bike_taken,0,0,0,7,5,5,4,0,0
+2025-07-20T19:17:44,Ottomar-Geschke-Straße (Spielplatz),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:17:44,Gustav-Meyer-Allee/Hussitenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:17:44,Friedelstraße/Sanderstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:17:44,Gustav-Holzmann-Straße (Sisyphos),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:17:44,Helmholtzstraße/Pascalstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:17:44,Heckmannufer,not_booked:bike_taken,0,0,0,15,13,13,4,0,0
+2025-07-20T19:17:44,U Schönleinstraße,not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T19:17:44,Forckenbeckstraße (Sommerbad Wilmersdorf),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:17:44,VRAO 45 - U Tierpark (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:17:44,Perleberger Straße/Stendalstraße,not_booked:bike_taken,0,0,0,7,6,6,4,0,0
+2025-07-20T19:17:44,**DB Mobility Hub S Südkreuz (Erika-Gräfin-von-Brockdorff-Platz),not_booked:bike_taken,0,0,0,2,1,1,20,19,0
+2025-07-20T19:17:44,Bayernring,not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T19:17:44,Gustav-Meyer-Allee/Hussitenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:17:44,S Landsberger Allee,not_booked:bike_taken,0,0,0,5,3,3,5,2,0
+2025-07-20T19:17:44,Haus der Kulturen,not_booked:bike_taken,0,0,0,4,1,1,4,3,0
+2025-07-20T19:17:44,Virchowstraße,not_booked:bike_taken,0,0,0,3,2,2,14,12,0
+2025-07-20T19:17:44,Am Tempelhofer Feld,not_booked:bike_taken,0,0,0,3,2,2,8,5,0
+2025-07-20T19:17:44,M Mollstraße/Otto-Braun-Straße (Ost),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:17:44,Katzbachstraße,not_booked:bike_taken,0,0,0,3,2,2,15,13,0
+2025-07-20T19:17:44,Ziegelstraße/Tucholskystraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:17:44,U Nollendorfplatz (EDEKA),not_booked:bike_taken,0,0,0,8,6,6,16,9,0
+2025-07-20T19:17:44,S+U Rathaus Spandau (Nord),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:17:44,M Mauerpark,not_booked:bike_taken,0,0,0,7,5,5,18,13,0
+2025-07-20T19:17:44,U Prinzenstraße,not_booked:bike_taken,0,0,0,11,9,9,12,3,0
+2025-07-20T19:17:44,Hardenbergstraße (Universität der Künste),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:17:44,S+U Lichtenberg (Nordwest),not_booked:bike_taken,0,0,0,4,3,3,4,0,0
+2025-07-20T19:17:44,S Ostkreuz (Süd),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:17:44,Jelbi U Amrumer Straße (WED/AMR),not_booked:bike_taken,0,0,0,5,4,4,8,4,0
+2025-07-20T19:17:44,U Eisenacher Straße (Akazienstraße),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:18:05,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,9,8,8,4,0,0
+2025-07-20T19:18:05,Seestraße/Nordufer,not_booked:bike_taken,0,0,0,9,8,8,4,0,0
+2025-07-20T19:18:11,Pannierstraße,not_booked:bike_taken,0,0,0,2,1,1,10,8,0
+2025-07-20T19:18:21,Sonnenallee/Elbestraße,booked:not_taken,1044,1,0,1,1,1,4,3,0
+2025-07-20T19:18:21,U Prinzenstraße,not_booked:bike_taken,0,0,0,9,8,8,12,4,0
+2025-07-20T19:18:33,EDEKA S Greifwalder Straße (West),booked:not_taken,49,1,1,2,2,1,4,2,0
+2025-07-20T19:18:33,S Treptower Park (Südost),not_booked:bike_taken,0,0,0,2,1,1,6,3,0
+2025-07-20T19:18:44,Heerstraße/Alt-Pichelsdorf,booked:not_taken,60,1,0,3,3,3,4,1,0
+2025-07-20T19:18:54,Mariannenplatz,booked:bike_taken,49,1,0,2,1,1,7,5,0
+2025-07-20T19:34:25,S Treptower Park,booked:not_taken,1001,1,0,1,2,2,5,3,0
+2025-07-20T19:34:25,Jelbi Simon-Dach-Straße/ Revaler Straße (FHA/SI),booked:not_taken,996,1,0,1,1,1,5,4,0
+2025-07-20T19:34:25,EDEKA S Greifwalder Straße (West),booked:bike_taken,980,2,0,2,1,1,4,3,0
+2025-07-20T19:34:25,Neue Bahnhofstraße/Boxhagener Straße (Süd),booked:not_taken,1001,1,0,1,1,1,4,3,0
+2025-07-20T19:34:25,Bismarckstraße/Kaiser-Friedrich-Straße,booked:not_taken,3983,1,0,1,1,1,4,3,0
+2025-07-20T19:34:25,Kapfenteichstraße/Am Treptower Park,booked:bike_taken,1001,1,0,3,2,2,4,2,0
+2025-07-20T19:34:25,S Grunewald (West),booked:bike_taken,1944,2,0,4,2,2,4,2,0
+2025-07-20T19:34:25,Beusselstraße/Wiclefstraße,booked:not_taken,1001,1,0,2,2,2,4,2,0
+2025-07-20T19:34:25,Schwedter Straße/Korsörer Straße,booked:not_taken,1001,1,0,1,1,1,4,3,0
+2025-07-20T19:34:25,Puschkinallee/Eichenstraße,booked:not_taken,1001,1,0,1,1,1,4,3,0
+2025-07-20T19:34:25,Jelbi U Bülowstraße (SCH/BU),booked:not_taken,1001,1,0,1,2,2,6,3,0
+2025-07-20T19:34:25,Am Treptower Park/Moosdorfstraße,booked:not_taken,1001,1,0,1,1,1,4,3,0
+2025-07-20T19:34:25,Müller-Breslau-Straße (Schleusenkrug),booked:not_taken,2008,1,0,1,1,1,4,3,0
+2025-07-20T19:34:25,Jelbi U Görlitzer Bahnhof/Manteuffelstraße (KRE/GM),booked:not_taken,1001,1,0,2,3,3,11,7,0
+2025-07-20T19:18:54,Heerstraße/Alt-Pichelsdorf,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:34:25,Karl-Marx-Straße/Kienitzer Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:34:25,Wrangelstraße,not_booked:bike_taken,0,0,0,5,4,4,13,9,0
+2025-07-20T19:34:25,Jelbi U Amrumer Straße (WED/AMR),not_booked:bike_taken,0,0,0,4,3,3,8,5,0
+2025-07-20T19:34:25,Alt-Stralau/Tunnelstraße,not_booked:bike_taken,0,0,0,6,2,2,4,2,0
+2025-07-20T19:34:25,Jelbi Huxleys Neue Welt (NEU/HU),not_booked:bike_taken,0,0,0,7,5,5,7,1,0
+2025-07-20T19:34:25,S Nöldnerplatz ,not_booked:bike_taken,0,0,0,11,10,10,15,5,0
+2025-07-20T19:34:25,U Kleistpark (Nord),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:34:25,VRAO 52 - S+U Frankfurter Allee (Nord) (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:34:25,VRAO 31 - Mohrenstraße/Charlottenstraße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,6,4,4,6,2,0
+2025-07-20T19:34:25,VRAO 94 - Triftstraße/Wildenowstraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:34:25,Neue Hochstraße,not_booked:bike_taken,0,0,0,3,1,1,14,13,0
+2025-07-20T19:34:25,U Prinzenstraße,not_booked:bike_taken,0,0,0,8,1,1,12,11,0
+2025-07-20T19:34:25,Jelbi Herrfurthplatz West (NEU/HW),not_booked:bike_taken,0,0,0,5,4,4,9,5,0
+2025-07-20T19:34:25,Heidekampweg/Wohlgemuthstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:34:25,Domäne Dahlem (Königin-Luise-Straße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:34:25,U Hansaplatz,not_booked:bike_taken,0,0,0,6,3,3,4,1,0
+2025-07-20T19:34:25,Köpenicker Chausee (Klingenbergbrücke),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:34:25,Jelbi Oberbaumbrücke (FHA/OB),not_booked:bike_taken,0,0,0,4,3,3,16,13,0
+2025-07-20T19:34:25,Jelbi Weisestraße/Herrfurthstraße (NEU/WE),not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T19:34:25,Stromstraße (IPU / Lessingbrücke),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:34:25,Paul-Lincke-Ufer (Boulodrome),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:34:25,Alt-Stralau/Tunnelstraße,not_booked:bike_taken,0,0,0,6,2,2,4,2,0
+2025-07-20T19:34:25,U Prinzenstraße,not_booked:bike_taken,0,0,0,8,1,1,12,11,0
+2025-07-20T19:34:25,U Görlitzer Bahnhof,not_booked:bike_taken,0,0,0,4,3,3,15,11,0
+2025-07-20T19:34:25,VRAO 31 - Mohrenstraße/Charlottenstraße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,6,4,4,6,2,0
+2025-07-20T19:34:25,Jelbi Weisestraße/Herrfurthstraße (NEU/WE),not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T19:34:25,Alt-Stralau/Tunnelstraße,not_booked:bike_taken,0,0,0,6,2,2,4,2,0
+2025-07-20T19:34:25,Jelbi Gabriel-Max-Straße/ Wühlischstraße (FHA/GA),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T19:34:25,Jelbi Huxleys Neue Welt (NEU/HU),not_booked:bike_taken,0,0,0,7,5,5,7,1,0
+2025-07-20T19:34:25,U Südstern,not_booked:bike_taken,0,0,0,2,1,1,15,14,0
+2025-07-20T19:34:25,**S Ostkreuz,not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T19:34:25,U Eisenacher Straße (Akazienstraße),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:34:25,Reichstagsufer/Paul-Löbe-Allee,not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T19:34:25,Paul-Linke-Ufer/Ohlauer Straße,not_booked:bike_taken,0,0,0,4,1,1,4,3,0
+2025-07-20T19:34:25,Bulgarische Straße/Abteilbrücke,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:34:25,Kreuzbergstraße/Möckernstraße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:34:25,U Prinzenstraße,not_booked:bike_taken,0,0,0,8,1,1,12,11,0
+2025-07-20T19:34:25,U Otisstraße (Nord),not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T19:34:25,Jelbi S Warschauer Straße (FHA/WA),not_booked:bike_taken,0,0,0,2,1,1,15,14,0
+2025-07-20T19:34:25,Jelbi U Gleisdreieck (KRE/GLD),not_booked:bike_taken,0,0,0,3,2,2,10,8,0
+2025-07-20T19:34:25,Möckernstraße/Hornstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:34:25,ZOB Berlin (Südwest),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:34:25,Nalepastraße (Funkhaus),not_booked:bike_taken,0,0,0,6,5,5,4,0,0
+2025-07-20T19:34:25,Alt-Stralau/Tunnelstraße,not_booked:bike_taken,0,0,0,6,2,2,4,2,0
+2025-07-20T19:34:25,M Schwedterstraße,not_booked:bike_taken,0,0,0,4,3,3,16,13,0
+2025-07-20T19:34:25,Rudi-Dutschke-Straße,not_booked:bike_taken,0,0,0,3,2,2,12,9,0
+2025-07-20T19:34:25,Jelbi U Bismarckstraße (CHA/BI),not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T19:34:25,Möckernstraße/Hornstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:34:25,Paul-Linke-Ufer/Ohlauer Straße,not_booked:bike_taken,0,0,0,4,1,1,4,3,0
+2025-07-20T19:34:25,U Prinzenstraße,not_booked:bike_taken,0,0,0,8,1,1,12,11,0
+2025-07-20T19:34:25,Paul-Linke-Ufer/Ohlauer Straße,not_booked:bike_taken,0,0,0,4,1,1,4,3,0
+2025-07-20T19:34:25,Köpenicker Chaussee/Blockdammweg,not_booked:bike_taken,0,0,0,5,3,3,4,0,0
+2025-07-20T19:34:25,Günter-Litfin-Straße (Gustav-Adolf-Straße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:34:25,S Grunewald (West),not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T19:34:25,Schlesische Straße/Falckensteinstraße (Süd),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T19:34:25,S Sonnenallee,not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T19:34:25,EDEKA Stresemannstraße,not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T19:34:25,Oderbergerstraße 54 (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T19:34:25,U Prinzenstraße,not_booked:bike_taken,0,0,0,8,1,1,12,11,0
+2025-07-20T19:34:25,U Prinzenstraße,not_booked:bike_taken,0,0,0,8,1,1,12,11,0
+2025-07-20T19:34:25,U Hansaplatz,not_booked:bike_taken,0,0,0,6,3,3,4,1,0
+2025-07-20T19:34:25,Neue Hochstraße,not_booked:bike_taken,0,0,0,3,1,1,14,13,0
+2025-07-20T19:34:25,ZOB Berlin (Südwest),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:34:25,Jelbi Herrfurthplatz West (NEU/HW),not_booked:bike_taken,0,0,0,5,4,4,9,5,0
+2025-07-20T19:34:25,Fritschestraße/Pestalozzistraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:34:25,S Mexikoplatz (Nordost),not_booked:bike_taken,0,0,0,4,3,3,4,0,0
+2025-07-20T19:34:25,Jelbi Selchower Straße/Schillerpromenade (NEU/SE),not_booked:bike_taken,0,0,0,3,2,2,9,7,0
+2025-07-20T19:34:25,Paul-Linke-Ufer/Ohlauer Straße,not_booked:bike_taken,0,0,0,4,1,1,4,3,0
+2025-07-20T19:34:25,U Märkisches Museum (Ost),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:34:25,Simon-Dach-Straße/Frankfurter Allee,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:34:25,Köpenicker Chaussee/Blockdammweg,not_booked:bike_taken,0,0,0,5,3,3,4,0,0
+2025-07-20T19:34:25,U Prinzenstraße,not_booked:bike_taken,0,0,0,8,1,1,12,11,0
+2025-07-20T19:34:25,U Otisstraße (Nord),not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T19:34:25,U Schlesisches Tor (Ost),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:34:25,Jelbi Marchlewskistraße/ Revaler Straße (FHA/MA),not_booked:bike_taken,0,0,0,2,1,1,7,6,0
+2025-07-20T19:34:25,U Hansaplatz,not_booked:bike_taken,0,0,0,6,3,3,4,1,0
+2025-07-20T19:34:42,U Eisenacher Straße (Akazienstraße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:34:53,Jelbi U Boddinstraße/Selchower Straße (NEU/UB),booked:bike_taken,28,2,1,2,1,0,12,11,0
+2025-07-20T19:34:53,S Treptower Park,not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T19:35:16,U Rathaus Schöneberg,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:35:16,Rauchstraße/Hugo-Cassirer-Straße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:35:27,S+U Tempelhof (Nord),booked:bike_taken,62,1,0,3,2,2,6,4,0
+2025-07-20T19:35:27,Leipziger Straße/Markgrafenstraße,not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T19:35:27,Leipziger Straße/Markgrafenstraße,not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T19:38:46,VRAO 39 - Nostitzstraße/Bergmannstraße (Abstellfläche-Mikromobilität),booked:bike_taken,261,1,0,2,1,1,6,5,0
+2025-07-20T19:38:46,Jelbi U Weinmeisterstraße (MIT/WE),booked:bike_taken,261,1,0,2,1,1,4,3,0
+2025-07-20T19:38:46,Schönhauser Allee/Saarbrücker Straße,booked:not_taken,261,1,0,2,2,2,4,2,0
+2025-07-20T19:38:46,Burgsdorfstraße/Willdenowstraße,booked:bike_taken,210,1,0,3,2,2,4,2,0
+2025-07-20T19:54:16,U Blissestraße,booked:not_taken,1191,1,0,1,1,1,8,7,0
+2025-07-20T19:54:16,Aquarium,booked:not_taken,930,1,0,2,2,2,22,20,0
+2025-07-20T19:54:16,S+U Neukölln,booked:bike_taken,930,2,0,2,1,1,8,7,0
+2025-07-20T19:54:16,M Bersarinplatz (Thaerstraße),booked:not_taken,1191,1,0,1,1,1,4,3,0
+2025-07-20T19:54:16,Lottumstraße/Angemünder Straße,booked:not_taken,1191,1,0,1,1,1,4,3,0
+2025-07-20T19:54:16,S+U Westhafen (Nordost),booked:bike_taken,1191,1,0,2,1,1,4,3,0
+2025-07-20T19:54:16,Phillipstraße/Hannoversche Straße,booked:not_taken,1191,1,0,2,2,2,4,2,0
+2025-07-20T19:54:16,Marheinekeplatz/Schleiermacherstraße,booked:not_taken,1191,1,0,1,1,1,4,3,0
+2025-07-20T19:54:16,Bugenhagenstraße/Bremer Straße,booked:not_taken,1129,1,0,1,1,1,4,3,0
+2025-07-20T19:54:16,S Köllnische Heide (Nord),booked:not_taken,1112,2,0,2,2,2,4,2,0
+2025-07-20T19:54:16,Greifswalder Straße/Thomas-Mann-Straße,booked:not_taken,1191,1,0,1,1,1,4,3,0
+2025-07-20T19:54:16,Hermannstraße/Nogatstraße,booked:not_taken,1191,1,0,1,1,1,4,3,0
+2025-07-20T19:54:16,Königin-Luise-Straße/Englerallee,booked:not_taken,1191,1,0,1,1,1,4,3,0
+2025-07-20T19:54:16,Weserstraße/Wildenbruchstraße,booked:not_taken,2192,1,0,2,2,2,4,2,0
+2025-07-20T19:54:16,S Ostkreuz (Südost),booked:bike_taken,1191,1,0,7,3,3,4,0,0
+2025-07-20T19:54:16,Hauptstraße/Ulrich-Plenzdorf-Straße,booked:not_taken,1191,1,0,1,1,1,4,3,0
+2025-07-20T19:54:16,Jelbi Freie Universität/Silberlaube (DAH/SI),booked:not_taken,1191,1,0,1,1,1,4,2,0
+2025-07-20T19:54:16,Willibald-Alexis-Straße/Chamissoplatz,booked:bike_taken,2192,2,1,4,2,1,4,2,0
+2025-07-20T19:54:16,Am Spreebord/Caprivibrücke,booked:not_taken,1191,1,0,1,1,1,4,3,0
+2025-07-20T19:54:16,U Sophie-Charlotte-Platz (Nordwest),booked:not_taken,930,2,0,4,5,5,4,0,0
+2025-07-20T19:54:16,Nogatstraße/Ilsestraße,booked:bike_taken,930,1,0,2,1,1,4,3,0
+2025-07-20T19:54:16,Forckenbeckstraße (Sommerbad Wilmersdorf),booked:not_taken,1191,1,0,1,1,1,4,3,0
+2025-07-20T19:54:16,Seestraße/Nordufer,booked:bike_taken,1191,2,1,5,4,3,4,0,0
+2025-07-20T19:54:16,Jelbi U Kottbusser Tor/Zentrum Kreuzberg (KRE/KO),booked:bike_taken,1191,1,0,5,4,4,12,7,0
+2025-07-20T19:38:46,Wilhelm-Kuhr-Straße/Kreuzstraße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T19:38:46,Geschwister Scholl Str.,not_booked:bike_taken,0,0,0,7,6,6,33,26,0
+2025-07-20T19:38:46,VRAO 31 - Mohrenstraße/Charlottenstraße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T19:38:46,Jelbi Grünberger Straße/ Warschauer Straße (FHA/GW),not_booked:bike_taken,0,0,0,3,1,1,6,5,0
+2025-07-20T19:38:46,S Julius-Leber-Brücke (Nordost),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:38:46,Zeughofstraße (Lausitzer Park),not_booked:bike_taken,0,0,0,5,3,3,10,7,0
+2025-07-20T19:38:46,Kreuzbergstraße/Möckernstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:38:46,Beusselstraße/Erasmusstraße,not_booked:bike_taken,0,0,0,3,2,2,4,1,0
+2025-07-20T19:38:46,Jelbi U Rosenthaler Platz Nord (MIT/RN),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T19:38:46,Zeughofstraße (Lausitzer Park),not_booked:bike_taken,0,0,0,5,3,3,10,7,0
+2025-07-20T19:38:46,Jelbi Grünberger Straße/ Warschauer Straße (FHA/GW),not_booked:bike_taken,0,0,0,3,1,1,6,5,0
+2025-07-20T19:38:46,Jelbi Graefestraße/Planufer (KRE/GP),not_booked:bike_taken,0,0,0,3,2,2,6,3,0
+2025-07-20T19:38:46,Jelbi Simon-Dach-Straße/ Revaler Straße (FHA/SI),not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T19:38:46,S Julius-Leber-Brücke (Nordost),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:54:16,Gensinger Straße Ost,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:54:16,U Samariterstraße,not_booked:bike_taken,0,0,0,6,5,5,9,4,0
+2025-07-20T19:54:16,Jelbi U Gleisdreieck (KRE/GLD),not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T19:54:16,Wiclefstraße/Bredowstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:54:16,M Wühlischstraße/Holteistraße,not_booked:bike_taken,0,0,0,3,2,2,5,3,0
+2025-07-20T19:54:16,**Fraenkelufer,not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T19:54:16,Alt-Stralau (Elsenbrücke),not_booked:bike_taken,0,0,0,7,5,5,4,0,0
+2025-07-20T19:54:16,Oderbergerstraße 1 (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T19:54:16,Peter-Strasser-Weg (Tempelhofer Feld West),not_booked:bike_taken,0,0,0,8,4,4,4,0,0
+2025-07-20T19:54:16,Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),not_booked:bike_taken,0,0,0,5,3,3,8,5,0
+2025-07-20T19:54:16,Jelbi Potsdamer Platz/Gabriele-Tergit-Promenade (MIT/PG),not_booked:bike_taken,0,0,0,3,1,1,6,5,0
+2025-07-20T19:54:16,Peter-Strasser-Weg (Tempelhofer Feld West),not_booked:bike_taken,0,0,0,8,4,4,4,0,0
+2025-07-20T19:54:16,Jelbi Potsdamer Platz/Gabriele-Tergit-Promenade (MIT/PG),not_booked:bike_taken,0,0,0,3,1,1,6,5,0
+2025-07-20T19:54:16,"HfS ""Ernst Busch"" (Süd)",not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:54:16,Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),not_booked:bike_taken,0,0,0,5,3,3,8,5,0
+2025-07-20T19:54:16,Katzbachstraße,not_booked:bike_taken,0,0,0,2,1,1,15,14,0
+2025-07-20T19:54:16,S+U Eberswalder Straße (Süd),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:54:16,EDEKA Busack (Heckerdamm),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:54:16,Peter-Strasser-Weg (Tempelhofer Feld West),not_booked:bike_taken,0,0,0,8,4,4,4,0,0
+2025-07-20T19:54:16,S+U Karl-Bonhoeffer-Nervenklinik (Oranienburger Straße/Ost),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:54:16,Steinplatz (West),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:54:16,Ackerstraße (Park),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:54:16,Cantianstraße,not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T19:54:16,**Jelbi S+U Hauptbahnhof/Washingtonplatz (MOA/HW),not_booked:bike_taken,0,0,0,8,7,7,10,3,0
+2025-07-20T19:54:16,Ackerstraße (Park),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:54:16,Rixdorfer Straße (Sommerbad Mariendorf),not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T19:54:16,Michaelkirchbrücke,not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T19:54:16,Beusselstraße/Erasmusstraße,not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T19:54:16,Scharnweberstraße/Gürtelstraße,not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T19:54:16,Krügerstraße/Kuglerstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:54:16,Scharnweberstraße/Gürtelstraße,not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T19:54:16,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,13,11,11,4,0,0
+2025-07-20T19:54:16,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,13,11,11,4,0,0
+2025-07-20T19:54:16,Peter-Strasser-Weg (Tempelhofer Feld West),not_booked:bike_taken,0,0,0,8,4,4,4,0,0
+2025-07-20T19:54:16,U Otisstraße (Nord),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:54:16,Jelbi Oberbaumbrücke (FHA/OB),not_booked:bike_taken,0,0,0,3,2,2,16,14,0
+2025-07-20T19:54:16,Sonnenallee/Elbestraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:54:16,Jelbi Edith-Kiss-Straße (FHA/ED),not_booked:bike_taken,0,0,0,5,4,4,5,1,0
+2025-07-20T19:54:16,EDEKA Riebe (Platz der Vereinten Nationen),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:54:16,Jelbi Mühlenstraße/ Straße der Pariser Kommune (FHA/MU),not_booked:bike_taken,0,0,0,4,3,3,12,8,0
+2025-07-20T19:54:16,Tucholskystraße,not_booked:bike_taken,0,0,0,3,2,2,20,18,0
+2025-07-20T19:54:16,EDEKA Center No. 1,not_booked:bike_taken,0,0,0,3,2,2,4,0,0
+2025-07-20T19:54:16,Alt-Stralau (Elsenbrücke),not_booked:bike_taken,0,0,0,7,5,5,4,0,0
+2025-07-20T19:54:16,VRAO 31 - Mohrenstraße/Charlottenstraße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T19:54:16,Rixdorfer Straße (Sommerbad Mariendorf),not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T19:54:16,Steinplatz (West),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:54:16,Alt-Stralau/Tunnelstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:54:16,"HfS ""Ernst Busch"" (Süd)",not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:54:16,Jelbi Graefestraße/Planufer (KRE/GP),not_booked:bike_taken,0,0,0,2,1,1,6,4,0
+2025-07-20T19:54:16,U Otisstraße (Nord),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:54:16,S+U Karl-Bonhoeffer-Nervenklinik (Oranienburger Straße/Ost),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T19:54:16,Jelbi Graefestraße/Planufer (KRE/GP),not_booked:bike_taken,0,0,0,2,1,1,6,4,0
+2025-07-20T19:54:16,Mahlsdorfer Straße/Pflanzgartenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:54:16,Alexandrinenstraße/Oranienstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T19:54:16,S Bellevue (Nord),not_booked:bike_taken,0,0,0,2,1,1,5,3,0
+2025-07-20T19:54:16,Jelbi Rathausstraße/Berliner Fernsehturm (MIT/RB),not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T19:54:16,Hardenbergstraße (Universität der Künste),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T19:54:32,Jelbi Allerstraße (NEU/AL),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,S Nordbahnhof,booked:bike_taken,936,1,0,3,2,2,15,13,0
+2025-07-20T20:10:31,M Schwedterstraße,booked:bike_taken,936,1,0,3,2,2,16,14,0
+2025-07-20T20:10:31,Danziger Straße/Lychener Straße,booked:not_taken,936,1,0,1,2,2,20,18,0
+2025-07-20T20:10:31,U Südstern,booked:bike_taken,936,2,1,2,1,0,15,14,0
+2025-07-20T20:10:31,Baerwaldstraße,booked:not_taken,936,2,0,2,2,2,13,11,0
+2025-07-20T20:10:31,Rochowstr./Corinthstr.,booked:not_taken,936,1,0,2,1,1,5,4,0
+2025-07-20T20:10:31,Brunnenstraße/Rügener Straße,booked:not_taken,936,1,0,1,1,1,4,3,0
+2025-07-20T20:10:31,Simon-Dach-Straße/Frankfurter Allee,booked:bike_taken,936,1,0,3,2,2,4,2,0
+2025-07-20T20:10:31,EDEKA Hennig (Lehrter Straße),booked:bike_taken,936,1,0,3,2,2,4,2,0
+2025-07-20T20:10:31,Gierkeplatz (Süd),booked:not_taken,936,1,0,2,2,2,4,2,0
+2025-07-20T20:10:31,Dudenstraße/Boelckestraße,booked:not_taken,936,1,0,4,4,4,4,0,0
+2025-07-20T20:10:31,Jelbi U Boddinstraße/Selchower Straße (NEU/UB),booked:not_taken,936,1,0,1,1,1,12,11,0
+2025-07-20T20:10:31,Scharnweberstaße/Colbestraße,booked:not_taken,936,2,0,3,3,3,4,1,0
+2025-07-20T20:10:31,Jelbi Weisestraße/Herrfurthstraße (NEU/WE),booked:bike_taken,936,1,0,3,2,2,6,4,0
+2025-07-20T20:10:31,VRAO 76 - Augststraße/Tucholskystraße (Abstellfläche Mikromobilität),booked:bike_taken,936,2,0,2,1,1,4,3,0
+2025-07-20T20:10:31,Jelbi U Südstern (KRE/SU),booked:not_taken,936,1,0,1,1,1,8,7,0
+2025-07-20T20:10:31,Willibald-Alexis-Straße/Chamissoplatz,booked:not_taken,936,1,0,2,2,2,4,2,0
+2025-07-20T20:10:31,M Mauerpark,not_booked:bike_taken,0,0,0,8,4,4,18,14,0
+2025-07-20T20:10:31,U Schlesisches Tor (Nord),not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:10:31,Jelbi Lichtensteinallee/Café am Neuen See (TIE/LI),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T20:10:31,Jelbi S+U Friedrichstraße/Georgenstraße (MIT/FG),not_booked:bike_taken,0,0,0,4,3,3,8,5,0
+2025-07-20T20:10:31,**Helsingforser Platz (S Warschauer Straße),not_booked:bike_taken,0,0,0,8,6,6,12,6,0
+2025-07-20T20:10:31,Kreuzbergstraße/Möckernstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,M Mauerpark,not_booked:bike_taken,0,0,0,8,4,4,18,14,0
+2025-07-20T20:10:31,U Schlesisches Tor (Ost),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,Scharnweberstraße/Gürtelstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:10:31,**S+U Hauptbahnhof/Europaplatz,not_booked:bike_taken,0,0,0,4,3,3,10,7,0
+2025-07-20T20:10:31,EDEKA Siegler (Richard-von-Weizsäcker-Platz),not_booked:bike_taken,0,0,0,7,6,6,4,0,0
+2025-07-20T20:10:31,**S+U Hauptbahnhof/Europaplatz,not_booked:bike_taken,0,0,0,4,3,3,10,7,0
+2025-07-20T20:10:31,Bozener Straße (Süd),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,VRAO 45 - U Tierpark (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,Köpenicker Chaussee/Blockdammweg,not_booked:bike_taken,0,0,0,3,1,1,4,2,0
+2025-07-20T20:10:31,Jelbi Oberbaumbrücke (FHA/OB),not_booked:bike_taken,0,0,0,2,1,1,16,15,0
+2025-07-20T20:10:31,Seestraße/Sylter Straße,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:10:31,Jelbi Schillerstraße/Wilmersdorfer Straße (CHA/SC),not_booked:bike_taken,0,0,0,5,4,4,6,2,0
+2025-07-20T20:10:31,Jelbi Libauer Straße/ Revaler Straße (FHA/LI),not_booked:bike_taken,0,0,0,3,2,2,7,5,0
+2025-07-20T20:10:31,U Schlesisches Tor (Nord),not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:10:31,Schwedter Straße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,6,3,3,6,3,0
+2025-07-20T20:10:31,M Mauerpark,not_booked:bike_taken,0,0,0,8,4,4,18,14,0
+2025-07-20T20:10:31,Jelbi Pestalozzistraße/Wilmersdorfer Straße (CHA/PE),not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T20:10:31,Karl-Marx Allee,not_booked:bike_taken,0,0,0,9,8,8,16,8,0
+2025-07-20T20:10:31,virtuell – Böcklerpark,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,Poststraße/Propststraße,not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T20:10:31,Seestraße/Sylter Straße,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:10:31,S+U Tempelhof (Nord),not_booked:bike_taken,0,0,0,3,1,1,6,5,0
+2025-07-20T20:10:31,Kottbuser Damm/Boppstraße,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:10:31,S Heidelberger Platz (Aßmannshauser Straße),not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T20:10:31,Hirschberger Straße/Schreiberhauer Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,Jelbi U Nollendorfplatz/Kleiststraße (SCH/UN),not_booked:bike_taken,0,0,0,5,4,4,6,2,0
+2025-07-20T20:10:31,M Prenzlauer Allee,not_booked:bike_taken,0,0,0,3,1,1,18,17,0
+2025-07-20T20:10:31,VRAO 61 - Skalitzer Straße/Görlitzer Park (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,Müller-Breslau-Straße (Schleusenkrug),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,U Rathaus Schöneberg,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:10:31,Sonnenallee/Mareschstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:10:31,M Prenzlauer Allee,not_booked:bike_taken,0,0,0,3,1,1,18,17,0
+2025-07-20T20:10:31,S+U Jannowitzbrücke,not_booked:bike_taken,0,0,0,4,3,3,14,11,0
+2025-07-20T20:10:31,Jelbi Karl-Liebknecht-Straße/Hirtenstraße (MIT/KH),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T20:10:31,Jelbi S+U Hauptbahnhof/Heidestraße (MOA/HA),not_booked:bike_taken,0,0,0,5,4,4,8,4,0
+2025-07-20T20:10:31,U Märkisches Museum (Ost),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:10:31,Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T20:10:31,Kottbuser Damm/Boppstraße,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:10:31,M Kopernikusstraße/Warschauer Straße (Nord),not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T20:10:31,**S Ostbahnhof,not_booked:bike_taken,0,0,0,3,2,2,13,11,0
+2025-07-20T20:10:31,S+U Eberswalder Straße (Süd),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,Reichenberger Straße/Lausitzer Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,U Sophie-Charlotte-Platz (Nordwest),not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:10:31,Onkel-Tom-Straße (Rodelhütte),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,Friedenstraße/Friedrichsberger Straße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T20:10:31,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,11,10,10,4,0,0
+2025-07-20T20:10:31,M Mauerpark,not_booked:bike_taken,0,0,0,8,4,4,18,14,0
+2025-07-20T20:10:31,Ludwigkirchplatz/Pfalzburger Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,Jelbi U Alexanderplatz/Bernhard-Weiß-Straße (MIT/AB),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T20:10:31,Schwedter Straße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,6,3,3,6,3,0
+2025-07-20T20:10:31,Werderscher Markt/Schinkelplatz,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:10:31,Schwedter Straße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,6,3,3,6,3,0
+2025-07-20T20:10:31,Berthelsdorfer Straße/Richardstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:10:31,U Sophie-Charlotte-Platz (Nordwest),not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:10:31,M Wühlischstraße/Holteistraße,not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T20:10:31,U Deutsche Oper,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,Rochowstr./Corinthstr.,not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T20:10:31,Köpenicker Chaussee/Blockdammweg,not_booked:bike_taken,0,0,0,3,1,1,4,2,0
+2025-07-20T20:10:31,virtuell – Skalitzer Straße/Erkelenzdamm,not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T20:10:31,**Helsingforser Platz (S Warschauer Straße),not_booked:bike_taken,0,0,0,8,6,6,12,6,0
+2025-07-20T20:10:31,S+U Neukölln (Süd),not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T20:10:31,U Sophie-Charlotte-Platz (Nordwest),not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:10:31,M Mauerpark,not_booked:bike_taken,0,0,0,8,4,4,18,14,0
+2025-07-20T20:10:31,Ostbloc Boulderhalle,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,Friedrichstadtpalast (U Oranienburger Tor),not_booked:bike_taken,0,0,0,3,2,2,10,8,0
+2025-07-20T20:10:31,Gutenbergstraße/Englische Straße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T20:10:31,Elsenstraße/Harzer Straße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:10:31,U Märkisches Museum (Ost),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:10:31,S+U Tempelhof (Nord),not_booked:bike_taken,0,0,0,3,1,1,6,5,0
+2025-07-20T20:10:31,Oderbergerstraße 54 (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T20:10:31,EDEKA Straßburger Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:31,Scharnweberstraße/Gürtelstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:10:31,Sonnenallee/Mareschstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:10:31,Weserstaße (93),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T20:10:50,Jelbi Daumstraße/Rhenaniastraße (HAS/DRS),booked:not_taken,955,1,0,1,1,1,5,4,0
+2025-07-20T20:10:44,Zionskirchstraße/Choriner Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:10:50,U Schlesisches Tor (Nord),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:11:26,Zenner,not_booked:bike_taken,0,0,0,10,8,8,5,0,0
+2025-07-20T20:11:38,Weinbergspark,booked:bike_taken,67,1,0,5,4,4,12,8,0
+2025-07-20T20:21:10,Tegelerstraße/Lynarstraße,booked:bike_taken,639,1,0,5,4,4,5,1,0
+2025-07-20T20:21:10,S Hackescher Markt (Nord),booked:not_taken,639,1,0,2,2,2,4,1,0
+2025-07-20T20:21:10,S Prenzlauer Allee (Ahlbecker Straße),booked:not_taken,1575,1,0,1,1,1,4,3,0
+2025-07-20T20:21:10,Jelbi U Weinmeisterstraße (MIT/WE),booked:not_taken,1575,1,0,3,2,2,4,2,0
+2025-07-20T20:21:10,Holländerstraße/Vierwaldstätter Weg,booked:not_taken,639,1,0,1,1,1,4,3,0
+2025-07-20T20:21:10,Jelbi S Storkower Straße (PRE/STO),booked:not_taken,639,1,0,1,1,1,7,6,0
+2025-07-20T20:21:10,Dudenstraße/Boelckestraße,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:21:10,S+U Rathaus Spandau (Nord),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:21:10,Alboinplatz (Nord),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:21:10,Dudenstraße/Boelckestraße,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:21:10,Hohenstaufenstraße/Kyffhäuserstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:21:10,Weserstraße/Roseggerstraße,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:21:10,M Memhardstraße,not_booked:bike_taken,0,0,0,3,2,2,20,18,0
+2025-07-20T20:21:10,**S+U Hauptbahnhof/Europaplatz,not_booked:bike_taken,0,0,0,3,1,1,10,9,0
+2025-07-20T20:21:10,Alt-Stralau/Bootsbauerstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:21:10,U Frankfurter Tor,not_booked:bike_taken,0,0,0,2,1,1,16,15,0
+2025-07-20T20:21:10,S Tiergarten,not_booked:bike_taken,0,0,0,9,8,8,14,6,0
+2025-07-20T20:21:10,Forster Straße/Reichenberger Straße,not_booked:bike_taken,0,0,0,7,5,5,4,0,0
+2025-07-20T20:21:10,Hohenstaufenstraße/Kyffhäuserstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:21:10,Marheinekeplatz,not_booked:bike_taken,0,0,0,4,3,3,8,5,0
+2025-07-20T20:21:10,S Nordbahnhof,not_booked:bike_taken,0,0,0,2,1,1,15,14,0
+2025-07-20T20:21:10,S+U Tempelhof (Nordost),not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T20:21:10,**Jelbi S+U Hauptbahnhof/Europaplatz West (MOA/EW),not_booked:bike_taken,0,0,0,8,4,4,28,23,0
+2025-07-20T20:21:10,M Treskowallee/Volkspark Wuhlheide,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:21:10,VRAO 28 - Friedrichstraße/Schiffbauerdamm (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,4,2,2,6,3,0
+2025-07-20T20:21:10,Mehringdamm/Fidicinstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:21:10,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,10,9,9,4,0,0
+2025-07-20T20:21:10,Stargarder Straße/Dunckerstraße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T20:21:10,**S+U Hauptbahnhof/Europaplatz,not_booked:bike_taken,0,0,0,3,1,1,10,9,0
+2025-07-20T20:21:10,Schönleinstraße,not_booked:bike_taken,0,0,0,4,3,3,10,7,0
+2025-07-20T20:21:10,Wartenbergstraße/Wilhelm-Guddorf-Straße,not_booked:bike_taken,0,0,0,3,2,2,4,1,0
+2025-07-20T20:21:10,**Jelbi S+U Hauptbahnhof/Europaplatz West (MOA/EW),not_booked:bike_taken,0,0,0,8,4,4,28,23,0
+2025-07-20T20:21:10,U Sophie-Charlotte-Platz (Nordwest),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:21:10,Weserstraße/Wildenbruchstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:21:10,Alt-Stralau/Bootsbauerstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:21:10,VRAO 28 - Friedrichstraße/Schiffbauerdamm (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,4,2,2,6,3,0
+2025-07-20T20:21:10,U Friedrichsfelde (Süd),not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T20:21:10,Forster Straße/Reichenberger Straße,not_booked:bike_taken,0,0,0,7,5,5,4,0,0
+2025-07-20T20:21:10,S Landsberger Allee,not_booked:bike_taken,0,0,0,4,2,2,5,3,0
+2025-07-20T20:21:10,**Jelbi S+U Hauptbahnhof/Europaplatz West (MOA/EW),not_booked:bike_taken,0,0,0,8,4,4,28,23,0
+2025-07-20T20:21:10,Weserstraße/Roseggerstraße,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:21:10,Eichbuschallee/Erich-Lodemann-Straße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:21:10,Robert-Siewert-Straße/Kötzinger Straße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:21:10,Monumentenstraße/Bautzener Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:21:10,Zenner,not_booked:bike_taken,0,0,0,8,7,7,5,0,0
+2025-07-20T20:21:10,Berthelsdorfer Straße/Richardstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:21:10,Jelbi U Weinmeisterstraße (MIT/WE),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:21:10,**Jelbi S+U Hauptbahnhof/Europaplatz West (MOA/EW),not_booked:bike_taken,0,0,0,8,4,4,28,23,0
+2025-07-20T20:21:10,Jelbi S+U Friedrichstraße/Georgenstraße (MIT/FG),not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T20:21:10,S Landsberger Allee,not_booked:bike_taken,0,0,0,4,2,2,5,3,0
+2025-07-20T20:21:10,S+U Potsdamer Platz/Linkstraße,not_booked:bike_taken,0,0,0,2,1,1,15,14,0
+2025-07-20T20:21:10,S+U Tempelhof (Nordost),not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T20:21:10,S Herrstraße (West),not_booked:bike_taken,0,0,0,7,6,6,4,0,0
+2025-07-20T20:21:10,Kottbuser Damm/Boppstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:21:16,Robert-Siewert-Straße/Kötzinger Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:36:55,U Leopoldplatz (Süd) Job Center/Bibliothek,booked:bike_taken,1584,1,0,2,1,1,4,3,0
+2025-07-20T20:36:55,S Bundesplatz (Süd),booked:not_taken,945,1,0,1,1,1,4,3,0
+2025-07-20T20:36:55,Jelbi Alte Schönhauser Straße (MIT/AS),booked:not_taken,1584,1,0,1,1,1,4,3,0
+2025-07-20T20:36:55,S Bundesplatz (Südwest),booked:not_taken,939,1,0,2,2,2,4,2,0
+2025-07-20T20:36:55,S+U Tempelhof (Nord),booked:not_taken,1529,1,0,1,1,1,6,5,0
+2025-07-20T20:36:55,U Hallesches Ufer (Mehringplatz),booked:bike_taken,1584,1,0,2,1,1,4,3,0
+2025-07-20T20:36:55,Jelbi U Bülowstraße (SCH/BU),booked:not_taken,945,1,0,1,1,1,6,4,0
+2025-07-20T20:36:55,Schlesische Straße/Falckensteinstraße (Süd),not_booked:bike_taken,0,0,0,6,5,5,4,0,0
+2025-07-20T20:36:55,S Ostkreuz (Südost),not_booked:bike_taken,0,0,0,6,5,5,4,0,0
+2025-07-20T20:36:55,U Märkisches Museum,not_booked:bike_taken,0,0,0,3,1,1,12,11,0
+2025-07-20T20:36:55,Hufelandstraße,not_booked:bike_taken,0,0,0,2,1,1,20,19,0
+2025-07-20T20:36:55,U Nollendorfplatz (EDEKA),not_booked:bike_taken,0,0,0,9,8,8,16,7,0
+2025-07-20T20:36:55,M Allee der Kosmonauten/Rhinstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:36:55,U Hansaplatz,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:36:55,VRAO 74 - Tucholskystraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,6,4,4,4,0,0
+2025-07-20T20:36:55,DAV Kletterzentrum,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:36:55,U Paulsternstraße,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:36:55,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,9,8,8,4,0,0
+2025-07-20T20:36:55, Jelbi Klinikum Am Urban/Dieffenbachstraße (KRE/KD),not_booked:bike_taken,0,0,0,3,2,2,5,3,0
+2025-07-20T20:36:55,S Ostbahnhof (Nordost),not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T20:36:55,S+U Jannowitzbrücke,not_booked:bike_taken,0,0,0,3,1,1,14,13,0
+2025-07-20T20:36:55,Schwedter Straße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T20:36:55,U Reinickendorfer Straße (Fennstraße),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T20:36:55,S Ostbahnhof (Nordost),not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T20:36:55,Marheinekeplatz,not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T20:36:55,VRAO 31 - Mohrenstraße/Charlottenstraße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T20:36:55,Schönleinstraße,not_booked:bike_taken,0,0,0,3,1,1,10,9,0
+2025-07-20T20:36:55,Jelbi Edith-Kiss-Straße (FHA/ED),not_booked:bike_taken,0,0,0,4,1,1,5,4,0
+2025-07-20T20:36:55,S Schöneweide (Michael-Brückner-Straße/Sterndamm),not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T20:36:55,Genslerstraße/Landsberger Allee,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:36:55,Zenner,not_booked:bike_taken,0,0,0,7,4,4,5,1,0
+2025-07-20T20:36:55,S Ostkreuz (Südost),not_booked:bike_taken,0,0,0,6,5,5,4,0,0
+2025-07-20T20:36:55,Peter-Strasser-Weg (Tempelhofer Feld West),not_booked:bike_taken,0,0,0,7,2,2,4,2,0
+2025-07-20T20:36:55,Jelbi Herrfurthstraße/Hermannstraße (NEU/HH),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T20:36:55,Peter-Strasser-Weg (Tempelhofer Feld West),not_booked:bike_taken,0,0,0,7,2,2,4,2,0
+2025-07-20T20:36:55,U Paulsternstraße,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T20:36:55,Zenner,not_booked:bike_taken,0,0,0,7,4,4,5,1,0
+2025-07-20T20:36:55,Peter-Strasser-Weg (Tempelhofer Feld West),not_booked:bike_taken,0,0,0,7,2,2,4,2,0
+2025-07-20T20:36:55,Marheinekeplatz,not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T20:36:55,Jelbi Winterfeldtplatz (SCH/WF),not_booked:bike_taken,0,0,0,5,3,3,3,0,0
+2025-07-20T20:36:55,Aristotelessteig (6),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:36:55,Zenner,not_booked:bike_taken,0,0,0,7,4,4,5,1,0
+2025-07-20T20:36:55,**Jelbi S+U Hauptbahnhof/Europaplatz West (MOA/EW),not_booked:bike_taken,0,0,0,4,3,3,28,24,0
+2025-07-20T20:36:55,Jelbi Edith-Kiss-Straße (FHA/ED),not_booked:bike_taken,0,0,0,4,1,1,5,4,0
+2025-07-20T20:36:55,U Rathaus Neukölln (Schönstedtstraße),not_booked:bike_taken,0,0,0,3,1,1,4,2,0
+2025-07-20T20:36:55,VRAO 74 - Tucholskystraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,6,4,4,4,0,0
+2025-07-20T20:36:55,VRAO 21 - Boxhagener Platz/Nordwest (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:36:55,Alt-Stralau (Elsenbrücke),not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T20:36:55,VRAO 62 - Görlitzer Straße/Lübbenerstraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T20:36:55,Aristotelessteig (6),not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:36:55,Friedelstraße/Pflügerstraße,not_booked:bike_taken,0,0,0,4,3,3,4,0,0
+2025-07-20T20:36:55,U Bernauer Straße,not_booked:bike_taken,0,0,0,2,1,1,20,19,0
+2025-07-20T20:36:55,S Ostkreuz (Südost),not_booked:bike_taken,0,0,0,6,5,5,4,0,0
+2025-07-20T20:36:55,Leuthener Straße/Leberstraße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T20:36:55,Peter-Strasser-Weg (Tempelhofer Feld West),not_booked:bike_taken,0,0,0,7,2,2,4,2,0
+2025-07-20T20:36:55,Alt-Stralau (Elsenbrücke),not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T20:36:55,**Jelbi S+U Hauptbahnhof/Europaplatz Ost (MOA/EO),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T20:36:55,Bayreuther Straße,not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T20:36:55,Jelbi Winterfeldtplatz (SCH/WF),not_booked:bike_taken,0,0,0,5,3,3,3,0,0
+2025-07-20T20:36:55,Grunewaldstraße/Eisenacher Straße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T20:36:55,Neue Bahnhofstraße/Boxhagener Straße (Süd),not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T20:36:55,Elsenstraße/Harzer Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:36:55,Möckernstraße/Hornstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:36:55,Jelbi Spandauer Str./Marx-Engels-Forum (MIT/MX),not_booked:bike_taken,0,0,0,2,1,1,14,13,0
+2025-07-20T20:36:55,Jelbi Edith-Kiss-Straße (FHA/ED),not_booked:bike_taken,0,0,0,4,1,1,5,4,0
+2025-07-20T20:36:55,VRAO 18 - U Rosenthaler Platz/Weinbergsweg (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T20:36:55,Mehringdamm,not_booked:bike_taken,0,0,0,3,2,2,11,9,0
+2025-07-20T20:36:55,Friedelstraße/Pflügerstraße,not_booked:bike_taken,0,0,0,4,3,3,4,0,0
+2025-07-20T20:36:55,Kleine Eiswerderstraße/Daumstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:36:55,S+U Jannowitzbrücke,not_booked:bike_taken,0,0,0,3,1,1,14,13,0
+2025-07-20T20:36:55,U Rathaus Neukölln (Schönstedtstraße),not_booked:bike_taken,0,0,0,3,1,1,4,2,0
+2025-07-20T20:36:55,Genslerstraße/Landsberger Allee,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:36:55,Peter-Strasser-Weg (Tempelhofer Feld West),not_booked:bike_taken,0,0,0,7,2,2,4,2,0
+2025-07-20T20:36:55,U Märkisches Museum,not_booked:bike_taken,0,0,0,3,1,1,12,11,0
+2025-07-20T20:36:55,Jelbi Schillerstraße/Wilmersdorfer Straße (CHA/SC),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T20:36:55,Neue Bahnhofstraße/Boxhagener Straße (Süd),not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T20:36:55,U Franz-Neumann-Platz,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:36:55,Bahnhofsstraße/Friedrichshagener Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:36:55,**Helsingforser Platz (S Warschauer Straße),not_booked:bike_taken,0,0,0,7,6,6,12,6,0
+2025-07-20T20:36:55,VRAO 15 - Caroline-Michaelis-Straße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,5,4,4,6,2,0
+2025-07-20T20:36:55,U Reinickendorfer Str.,not_booked:bike_taken,0,0,0,2,1,1,7,5,0
+2025-07-20T20:37:10,S+U Lichtenberg (Nordwest),not_booked:bike_taken,0,0,0,3,2,2,4,1,0
+2025-07-20T20:37:10,Schönhauser Allee/Saarbrücker Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:37:39,Holzmarktstraße/Krautstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:38:09,VRAO 64 - Görlitzer Straße/Falckensteinstraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:38:09,Goethestraße/Grolmanstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:38:09,Hertha-Block-Promenade/Wilhelm-Kabus-Straße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T20:39:44,Jelbi S+U Zoologischer Garten/Joachimsthaler Str. (CHA/JO),booked:not_taken,169,1,0,1,1,1,15,14,0
+2025-07-20T20:39:44,**DB Mobility Hub S Südkreuz (Erika-Gräfin-von-Brockdorff-Platz),booked:not_taken,169,1,0,1,1,1,20,19,0
+2025-07-20T20:55:15,Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),booked:bike_taken,1100,1,0,3,1,1,8,7,0
+2025-07-20T20:55:15,Kaskelstraße/Spittastraße,booked:not_taken,1100,1,0,1,1,1,4,3,0
+2025-07-20T20:55:15,U Unter den Linden (West),booked:not_taken,931,1,0,1,1,1,5,4,0
+2025-07-20T20:55:15,VRAO 40 - S+U Lichtenberg/Nordwest (Abstellfläche-Mikromobilität),booked:not_taken,1100,2,0,2,2,2,6,4,0
+2025-07-20T20:55:15,Amalienstraße/Parkstraße,booked:not_taken,1100,1,0,1,1,1,4,3,0
+2025-07-20T20:55:15,Kreuzbergstraße/Möckernstraße,booked:not_taken,1100,2,1,2,2,1,4,2,0
+2025-07-20T20:39:44,U Frankfurter Tor,not_booked:bike_taken,0,0,0,3,1,1,16,15,0
+2025-07-20T20:39:44,U Frankfurter Tor,not_booked:bike_taken,0,0,0,3,1,1,16,15,0
+2025-07-20T20:39:44,EDEKA Voigt (Bölschestraße),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:39:44,Jelbi U Amrumer Straße (WED/AMR),not_booked:bike_taken,0,0,0,3,1,1,8,7,0
+2025-07-20T20:39:44,Peter-Strasser-Weg (Tempelhofer Feld West),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:39:44,EDEKA Center Stephanstraße,not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T20:55:15,**Helsingforser Platz (S Warschauer Straße),not_booked:bike_taken,0,0,0,6,5,5,12,7,0
+2025-07-20T20:55:15,Neue Bahnhofstraße/Boxhagener Straße (Nord),not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T20:55:15,Jelbi S+U Hauptbahnhof/Heidestraße (MOA/HA),not_booked:bike_taken,0,0,0,5,4,4,8,4,0
+2025-07-20T20:55:15,Rathaus Tiergarten (U Turmstraße),not_booked:bike_taken,0,0,0,3,2,2,10,8,0
+2025-07-20T20:55:15,VRAO 74 - Tucholskystraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T20:55:15,S Herrstraße (West),not_booked:bike_taken,0,0,0,6,5,5,4,0,0
+2025-07-20T20:55:15,S+U Tempelhof (Nordost),not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T20:55:15,VRAO 19 - S Ostkreuz/Neue Bahnhofsstraße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T20:55:15,Florastraße/Mühlenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:55:15,M Kopernikusstraße/Warschauer Straße (Nord),not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T20:55:15,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,8,7,7,4,0,0
+2025-07-20T20:55:15,Studierenden-Wohnheim Aristotelessteig,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:55:15,Jelbi Zimmerstraße/Friedrichstraße (MIT/ZF),not_booked:bike_taken,0,0,0,4,2,2,5,3,0
+2025-07-20T20:55:15,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,8,7,7,4,0,0
+2025-07-20T20:55:15,Heckmannufer,not_booked:bike_taken,0,0,0,15,13,13,4,0,0
+2025-07-20T20:55:15,EDEKA Fromm (S+U Wedding),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:55:15,EDEKA Brehm (U Schönleinstraße),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:55:15,VRAO 18 - U Rosenthaler Platz/Weinbergsweg (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T20:55:15,Jelbi U Kottbusser Tor/Zentrum Kreuzberg (KRE/KO),not_booked:bike_taken,0,0,0,6,5,5,12,6,0
+2025-07-20T20:55:15,Sprengelstraße/Torfstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:55:15,Schmollerplatz,not_booked:bike_taken,0,0,0,3,2,2,16,8,0
+2025-07-20T20:55:15,Jelbi Zimmerstraße/Friedrichstraße (MIT/ZF),not_booked:bike_taken,0,0,0,4,2,2,5,3,0
+2025-07-20T20:55:15,Jelbi Lichtensteinallee/Café am Neuen See (TIE/LI),not_booked:bike_taken,0,0,0,5,3,3,8,5,0
+2025-07-20T20:55:15,Zenner,not_booked:bike_taken,0,0,0,4,3,3,5,2,0
+2025-07-20T20:55:15,Bornsdorfer Straße (37),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:55:15,Heckmannufer,not_booked:bike_taken,0,0,0,15,13,13,4,0,0
+2025-07-20T20:55:15,Jelbi Lichtensteinallee/Café am Neuen See (TIE/LI),not_booked:bike_taken,0,0,0,5,3,3,8,5,0
+2025-07-20T20:55:15,Trautenaustraße/Ruth-Baumgarte-Straße,not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T20:55:15,Paul-Robeson-Straße/Schönhauser Allee,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:55:15,**Jelbi S+U Hauptbahnhof/Washingtonplatz (MOA/HW),not_booked:bike_taken,0,0,0,6,5,5,10,5,0
+2025-07-20T20:55:15,S Lankwitz (Süd),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T20:55:15,Zionskirchstraße/Choriner Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:55:15,Trautenaustraße/Ruth-Baumgarte-Straße,not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T20:55:15,EDEKA Schrader (Barbarossastraße),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:55:15,Jelbi Grünberger Straße/Simon-Dach-Straße (FHA/GS),not_booked:bike_taken,0,0,0,3,1,1,8,7,0
+2025-07-20T20:55:15,VRAO 422 - Schlesische Straße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:55:15,Jelbi Gabriel-Max-Straße/ Wühlischstraße (FHA/GA),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T20:55:15,Paul-Linke-Ufer/Ohlauer Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:55:15,Jelbi Grünberger Straße/Simon-Dach-Straße (FHA/GS),not_booked:bike_taken,0,0,0,3,1,1,8,7,0
+2025-07-20T20:55:15,U Rathaus Neukölln (Boddinstraße),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:55:15,Alt-Stralau (Elsenbrücke),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T20:55:15,Alt-Stralau/Krachtstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:55:15,Hardenbergstraße (Universität der Künste),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:55:15,Marktplatz Adlershof (Dörpfeldstraße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:55:15,Jelbi Eingang Tempelhofer Feld/Columbiadamm (TEM/CO),not_booked:bike_taken,0,0,0,5,4,4,8,4,0
+2025-07-20T20:55:15,U Samariterstraße,not_booked:bike_taken,0,0,0,5,4,4,9,5,0
+2025-07-20T20:55:15,EDEKA Sapphire,not_booked:bike_taken,0,0,0,6,5,5,4,0,0
+2025-07-20T20:55:15,Am Friedrichshain/Bötzowstraße,not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T20:55:15,Donaustraße/Erkstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:55:15,U Kleistpark (West),not_booked:bike_taken,0,0,0,10,9,9,4,0,0
+2025-07-20T20:55:15,Jelbi Schillerstraße/Wilmersdorfer Straße (CHA/SC),not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T20:55:28,VRAO 57 - Raumerstraße/Lychener Straße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:55:28,Mühlenbergcenter,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T20:55:28,U Herrmannplatz (Süd),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T20:55:55,Winterfeldtplatz (Gleditschstraße),booked:bike_taken,40,1,0,3,2,2,4,2,0
+2025-07-20T20:55:55,Rosenheimer Straße/Münchener Straße,booked:bike_taken,40,2,1,2,1,0,4,3,0
+2025-07-20T20:56:19,VRAO 28 - Friedrichstraße/Schiffbauerdamm (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,6,4,0
+2025-07-20T20:56:30,Jelbi U Kottbusser Tor/Zentrum Kreuzberg (KRE/KO),not_booked:bike_taken,0,0,0,5,4,4,12,7,0
+2025-07-20T21:12:06,M Mauerpark,booked:bike_taken,1011,1,0,2,1,1,18,17,0
+2025-07-20T21:12:06,S Tiergarten,booked:bike_taken,1011,2,0,8,2,2,14,12,0
+2025-07-20T21:12:06,**S Ostbahnhof,booked:bike_taken,1011,1,0,3,1,1,13,12,0
+2025-07-20T21:12:06,Wildenbruchplatz,booked:bike_taken,1011,1,0,2,1,1,5,3,0
+2025-07-20T21:12:06,Rochowstr./Corinthstr.,booked:bike_taken,1011,1,0,2,1,1,5,4,0
+2025-07-20T21:12:06,EDEKA Siegler (Richard-von-Weizsäcker-Platz),booked:bike_taken,1011,3,1,6,4,3,4,0,0
+2025-07-20T21:12:06,Gotzkowskybrücke,booked:not_taken,1011,1,0,1,1,1,4,3,0
+2025-07-20T21:12:06,Hermannstraße/Nogatstraße,booked:not_taken,1011,1,0,1,1,1,4,3,0
+2025-07-20T21:12:06,Badstraße/Buttmannstraße,booked:bike_taken,1011,1,0,2,1,1,4,3,0
+2025-07-20T21:12:06,U Hallesches Ufer (Mehringplatz),booked:bike_taken,936,1,0,2,1,1,4,3,0
+2025-07-20T21:12:06,Tempelhofer Ufer/Schöneberger Straße,booked:not_taken,1011,1,0,1,1,1,4,3,0
+2025-07-20T21:12:06,U Gleisdreieck (Nord),booked:not_taken,1011,1,0,1,1,1,4,3,0
+2025-07-20T21:12:06,Kreuzbergstraße/Möckernstraße,booked:bike_taken,2111,2,0,2,1,1,4,3,0
+2025-07-20T21:12:06,Birkenstraße/Wilsnacker Straße,booked:not_taken,1011,2,0,2,2,2,4,1,0
+2025-07-20T21:12:06,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,6,2,2,4,1,0
+2025-07-20T21:12:06,Friedrichstr./Besselstr.,not_booked:bike_taken,0,0,0,2,1,1,12,11,0
+2025-07-20T21:12:06,Karl-Marx Allee,not_booked:bike_taken,0,0,0,10,9,9,16,7,0
+2025-07-20T21:12:06,Nalepastraße (Funkhaus),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T21:12:06,Jelbi Eingang Tempelhofer Feld/Columbiadamm (TEM/CO),not_booked:bike_taken,0,0,0,4,3,3,8,5,0
+2025-07-20T21:12:06,S+U Hauptbahnhof Washingtonplatz,not_booked:bike_taken,0,0,0,10,9,9,8,0,0
+2025-07-20T21:12:06,Heckmannufer,not_booked:bike_taken,0,0,0,13,8,8,4,0,0
+2025-07-20T21:12:06,**Jelbi S+U Hauptbahnhof/Washingtonplatz (MOA/HW),not_booked:bike_taken,0,0,0,5,4,4,10,6,0
+2025-07-20T21:12:06,Heckmannufer,not_booked:bike_taken,0,0,0,13,8,8,4,0,0
+2025-07-20T21:12:06,Heckmannufer,not_booked:bike_taken,0,0,0,13,8,8,4,0,0
+2025-07-20T21:12:06,Ufnaustraße/Huttenstraße,not_booked:bike_taken,0,0,0,6,5,5,5,0,0
+2025-07-20T21:12:06,S Herrstraße (West),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T21:12:06,Hauptstraße/Emma-Ihrer-Straße,not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T21:12:06,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,6,2,2,4,1,0
+2025-07-20T21:12:06,Werbellinstraße/Falkstraße,not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T21:12:06,**Helsingforser Platz (S Warschauer Straße),not_booked:bike_taken,0,0,0,5,3,3,12,9,0
+2025-07-20T21:12:06,Heckmannufer,not_booked:bike_taken,0,0,0,13,8,8,4,0,0
+2025-07-20T21:12:06,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,6,2,2,4,1,0
+2025-07-20T21:12:06,S Feuerbachstraße,not_booked:bike_taken,0,0,0,6,4,4,8,4,0
+2025-07-20T21:12:06,VRAO 15 - Caroline-Michaelis-Straße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T21:12:06,Mommsenstadion,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T21:12:06,U Görlitzer Bahnhof,not_booked:bike_taken,0,0,0,5,3,3,15,11,0
+2025-07-20T21:12:06,S Bundesplatz (Südwest),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:12:06,U Moritzplatz,not_booked:bike_taken,0,0,0,3,2,2,10,8,0
+2025-07-20T21:12:06,EDEKA Friedrichsstraße (Franz-Klühs-Straße),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T21:12:06,Jelbi U Amrumer Straße (WED/AMR),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T21:12:06,Jelbi Burgstraße/Friedrichsbrücke (MIT/FR),not_booked:bike_taken,0,0,0,10,9,9,18,9,0
+2025-07-20T21:12:06,Jelbi Burgstraße/Friedrichsbrücke (MIT/FR),not_booked:bike_taken,0,0,0,10,9,9,18,9,0
+2025-07-20T21:12:06,Bochumer Straße/Essener Straße,not_booked:bike_taken,0,0,0,3,2,2,4,1,0
+2025-07-20T21:12:06,U Eisenacher Straße (Schwäbische Straße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:12:06,Jelbi S+U Friedrichstraße/Georgenstraße (MIT/FG),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T21:12:06,Jelbi Oberbaumbrücke (FHA/OB),not_booked:bike_taken,0,0,0,2,1,1,16,15,0
+2025-07-20T21:12:06,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,6,2,2,4,1,0
+2025-07-20T21:12:06,Jelbi U Amrumer Straße (WED/AMR),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T21:12:06,Am Treptower Park/Herkomerstraße,not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T21:12:06,Heckmannufer,not_booked:bike_taken,0,0,0,13,8,8,4,0,0
+2025-07-20T21:12:06,Am Treptower Park/Herkomerstraße,not_booked:bike_taken,0,0,0,5,3,3,4,1,0
+2025-07-20T21:12:06,EDEKA Center No. 1,not_booked:bike_taken,0,0,0,3,2,2,4,0,0
+2025-07-20T21:12:06,S Hackescher Markt,not_booked:bike_taken,0,0,0,4,2,2,10,8,0
+2025-07-20T21:12:06,S Feuerbachstraße,not_booked:bike_taken,0,0,0,6,4,4,8,4,0
+2025-07-20T21:12:06,Sophienstraße/Weitlingstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T21:12:06,Tegelerstraße/Lynarstraße,not_booked:bike_taken,0,0,0,4,3,3,5,2,0
+2025-07-20T21:12:06,S+U Alexanderplatz (Dircksenstraße),not_booked:bike_taken,0,0,0,3,2,2,13,11,0
+2025-07-20T21:12:06,Neue Hochstraße,not_booked:bike_taken,0,0,0,2,1,1,14,13,0
+2025-07-20T21:12:06,Jelbi Rummelsburger Platz (FHA/RP),not_booked:bike_taken,0,0,0,4,3,3,8,5,0
+2025-07-20T21:12:06,S Ostkreuz (Südost),not_booked:bike_taken,0,0,0,5,3,3,4,0,0
+2025-07-20T21:12:06,U Moritzplatz,not_booked:bike_taken,0,0,0,3,2,2,10,8,0
+2025-07-20T21:12:06,S Ostkreuz (Südost),not_booked:bike_taken,0,0,0,5,3,3,4,0,0
+2025-07-20T21:12:06,S Friedrichshagen (Süd),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T21:12:19,S Treptower Park,booked:not_taken,13,1,0,2,2,2,5,3,0
+2025-07-20T21:12:06,Sonnenallee/Baumschulenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:12:06,Oberspree/Ottomar-Geschke-Straße (S Spindlersfeld),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T21:12:06,S Nöldnerplatz ,not_booked:bike_taken,0,0,0,10,9,9,15,6,0
+2025-07-20T21:12:06,Jelbi Admiralstraße/Fraenkelufer (KRE/AF),not_booked:bike_taken,0,0,0,2,1,1,7,6,0
+2025-07-20T21:12:06,Poststraße/Propststraße,not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T21:12:06,S Hackescher Markt,not_booked:bike_taken,0,0,0,4,2,2,10,8,0
+2025-07-20T21:12:06,EDEKA Hennig (Lehrter Straße),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T21:12:06,EDEKA Budapester Straße,not_booked:bike_taken,0,0,0,3,1,1,6,5,0
+2025-07-20T21:12:06,VRAO 62 - Görlitzer Straße/Lübbenerstraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T21:12:06,Heckmannufer,not_booked:bike_taken,0,0,0,13,8,8,4,0,0
+2025-07-20T21:12:06,**Helsingforser Platz (S Warschauer Straße),not_booked:bike_taken,0,0,0,5,3,3,12,9,0
+2025-07-20T21:12:06,VRAO 39 - S+U Lichtenberg/Nordost (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T21:12:06,EDEKA Budapester Straße,not_booked:bike_taken,0,0,0,3,1,1,6,5,0
+2025-07-20T21:12:06,Weserstaße (93),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T21:12:06,M Prenzlauer Allee,not_booked:bike_taken,0,0,0,2,1,1,18,17,0
+2025-07-20T21:12:06,EDEKA Fromm (S+U Wedding),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:12:06,Schwedter Straße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,3,1,1,6,5,0
+2025-07-20T21:12:06,Jelbi U Rosenthaler Platz Nord (MIT/RN),not_booked:bike_taken,0,0,0,5,4,4,6,2,0
+2025-07-20T21:12:06,Schwedter Straße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,3,1,1,6,5,0
+2025-07-20T21:12:06,U Görlitzer Bahnhof,not_booked:bike_taken,0,0,0,5,3,3,15,11,0
+2025-07-20T21:12:06,S Schöneberg (West),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:12:31,S Nordbahnhof,booked:not_taken,25,1,0,1,1,1,15,14,0
+2025-07-20T21:12:31,EDEKA Rhinstraße (S Friedrichsfelde Ost),booked:not_taken,25,1,0,1,1,1,4,3,0
+2025-07-20T21:12:31,S Treptower Park,not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T21:12:41,Nalepastraße (Funkhaus),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T21:12:41,Weinbergspark,not_booked:bike_taken,0,0,0,10,9,9,12,3,0
+2025-07-20T21:28:17,Erich-Weinert-Straße/Hosemannstraße,booked:not_taken,971,1,0,1,1,1,4,3,0
+2025-07-20T21:28:17,Jelbi Kleine Rosenthaler Straße/Steinstraße (MIT/RO),booked:not_taken,971,1,0,1,1,1,6,5,0
+2025-07-20T21:28:17,Lüneburger Straße/Paulstraße (IPU),booked:not_taken,971,2,0,3,3,3,4,1,0
+2025-07-20T21:28:17,M Albertinenstraße (Pistoriusstraße),booked:not_taken,971,1,0,1,1,1,4,3,0
+2025-07-20T21:28:17,Erdmannstraße/Heimstraße,booked:not_taken,971,1,0,1,1,1,4,3,0
+2025-07-20T21:28:17,Richardstraße/Herrnhuter Weg,booked:not_taken,971,1,0,1,1,1,4,3,0
+2025-07-20T21:28:17,Helmholtzstraße/Pascalstraße,booked:not_taken,971,1,0,1,1,1,4,3,0
+2025-07-20T21:28:17,Jelbi Eingang Tempelhofer Feld/Columbiadamm (TEM/CO),not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T21:28:17,Landsberger Allee/Judith-Auer-Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,Rummelsburger Landstraße/Nalepastraße,not_booked:bike_taken,0,0,0,8,7,7,4,0,0
+2025-07-20T21:28:17,VRAO 60 - Fidcinstraße / Friesenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,Fasanenstraße/Hertzallee,not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T21:28:17,Firlstraße/Wilhelminenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T21:28:17,S Tiergarten,not_booked:bike_taken,0,0,0,2,1,1,14,13,0
+2025-07-20T21:28:17,U Paradestraße (Südwest),not_booked:bike_taken,0,0,0,8,5,5,4,0,0
+2025-07-20T21:28:17,Mühlendamm/Spreeufer,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T21:28:17,Fredersdorfer Straße/Marchlewskistraße,not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T21:28:17,Grimmstraße,not_booked:bike_taken,0,0,0,3,1,1,12,11,0
+2025-07-20T21:28:17,U Schwartzkopffstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,Bergstraße/Bismarckstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,U Kurt-Schumacher-Platz (Ost),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,U Platz der Luftbrücke,not_booked:bike_taken,0,0,0,2,1,1,12,11,0
+2025-07-20T21:28:17,Brachvogelstraße/Blücherstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,Botschaft der nordischen Länder,not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T21:28:17,EDEKA Fiebig (Hasenheide),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,Rudi-Dutschke-Straße,not_booked:bike_taken,0,0,0,2,1,1,12,10,0
+2025-07-20T21:28:17,Eichenstraße/Martin-Hoffmann-Straße,not_booked:bike_taken,0,0,0,7,5,5,10,5,0
+2025-07-20T21:28:17,S Attilastraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,Eichenstraße/Martin-Hoffmann-Straße,not_booked:bike_taken,0,0,0,7,5,5,10,5,0
+2025-07-20T21:28:17,Geschwister Scholl Str.,not_booked:bike_taken,0,0,0,6,4,4,33,28,0
+2025-07-20T21:28:17,Holzmarktstraße,not_booked:bike_taken,0,0,0,6,4,4,4,0,0
+2025-07-20T21:28:17,Grimmstraße,not_booked:bike_taken,0,0,0,3,1,1,12,11,0
+2025-07-20T21:28:17,Geschwister Scholl Str.,not_booked:bike_taken,0,0,0,6,4,4,33,28,0
+2025-07-20T21:28:17,Kranoldstraße/Kranoldplatz,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,EDEKA Hennig (Lehrter Straße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,Tucholskystraße,not_booked:bike_taken,0,0,0,2,1,1,20,19,0
+2025-07-20T21:28:17,U Moritzplatz,not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T21:28:17,Dudenstraße/Boelckestraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T21:28:17,U Paradestraße (Südwest),not_booked:bike_taken,0,0,0,8,5,5,4,0,0
+2025-07-20T21:28:17, Jelbi Klinikum Am Urban/Dieffenbachstraße (KRE/KD),not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T21:28:17,Mühlendamm/Spreeufer,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T21:28:17,U Paradestraße (Südwest),not_booked:bike_taken,0,0,0,8,5,5,4,0,0
+2025-07-20T21:28:17,Holzmarktstraße,not_booked:bike_taken,0,0,0,6,4,4,4,0,0
+2025-07-20T21:28:17,U Hermannplatz/Hasenheide,not_booked:bike_taken,0,0,0,3,2,2,8,4,0
+2025-07-20T21:28:17,Görlitzer Straße (Landwehrkanal),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,U Frankfurter Tor,not_booked:bike_taken,0,0,0,2,1,1,16,15,0
+2025-07-20T21:28:17,S Südkreuz (Südost),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T21:28:17,Jelbi Graefestr./Boeckhstr. (KRE/GB),not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T21:28:17,Jelbi Burgstraße/Friedrichsbrücke (MIT/FR),not_booked:bike_taken,0,0,0,9,8,8,18,10,0
+2025-07-20T21:28:17,Jelbi Campus Buch/D24 (BUC/D24),not_booked:bike_taken,0,0,0,13,12,12,10,0,0
+2025-07-20T21:28:17,**Jelbi S+U Hauptbahnhof/Europaplatz Ost (MOA/EO),not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T21:28:17,Weserstaße (93),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,Schlesische Straße/Falckensteinstraße (Süd),not_booked:bike_taken,0,0,0,5,4,4,4,0,0
+2025-07-20T21:28:17,Schwedter Straße/Templiner Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,Dudenstraße/Boelckestraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T21:28:17,S+U Neukölln,not_booked:bike_taken,0,0,0,2,1,1,8,7,0
+2025-07-20T21:28:17,Lehrter Straße (51),not_booked:bike_taken,0,0,0,3,2,2,4,1,0
+2025-07-20T21:28:17,Seumestraße/Wühlischstraße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T21:28:17,Döberitzer Verbindung,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,Grüntaler Straße (Osloer Straße),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T21:28:17,Beusselstraße/Wiclefstraße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T21:28:17,VRAO 76 - Augststraße/Tucholskystraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:28:17,VRAO 74 - Tucholskystraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T21:28:17,**Jelbi S+U Hauptbahnhof/Washingtonplatz (MOA/HW),not_booked:bike_taken,0,0,0,4,2,2,10,8,0
+2025-07-20T21:28:17,Jelbi Libauer Straße/ Revaler Straße (FHA/LI),not_booked:bike_taken,0,0,0,4,3,3,7,4,0
+2025-07-20T21:28:17,U Frankfurter Tor,not_booked:bike_taken,0,0,0,2,1,1,16,15,0
+2025-07-20T21:28:17,Jelbi Schillerstraße/Wilmersdorfer Straße (CHA/SC),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T21:28:17,Karl-Marx Allee,not_booked:bike_taken,0,0,0,9,7,7,16,9,0
+2025-07-20T21:28:17,Jelbi Lichtensteinallee/Café am Neuen See (TIE/LI),not_booked:bike_taken,0,0,0,3,1,1,8,7,0
+2025-07-20T21:28:17,Karl-Marx Allee,not_booked:bike_taken,0,0,0,9,7,7,16,9,0
+2025-07-20T21:28:17,Jelbi Winterfeldtplatz (SCH/WF),not_booked:bike_taken,0,0,0,4,3,3,3,0,0
+2025-07-20T21:28:31,Jelbi S+U Potsdamer Platz/Botschaft von Kanada (MIT/PB),booked:bike_taken,14,2,1,2,1,0,10,9,0
+2025-07-20T21:28:17,U Prinzenstraße,not_booked:bike_taken,0,0,0,2,1,1,12,11,0
+2025-07-20T21:28:17,Jelbi Lichtensteinallee/Café am Neuen See (TIE/LI),not_booked:bike_taken,0,0,0,3,1,1,8,7,0
+2025-07-20T21:28:17,VRAO 76 - Augststraße/Tucholskystraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:29:11,U Nollendorfplatz (EDEKA),not_booked:bike_taken,0,0,0,8,7,7,16,8,0
+2025-07-20T21:40:42,virtuell - Treptower Straße/Weigandufer,booked:bike_taken,745,2,1,2,1,0,4,3,0
+2025-07-20T21:40:42,VRAO 92 - Tegelerstraße/Sprengelstraße (Abstellfläche Mikromobilität),booked:not_taken,745,1,0,2,2,2,4,2,0
+2025-07-20T21:40:42,U Osloer Straße (Ost),booked:not_taken,745,1,0,1,1,1,4,3,0
+2025-07-20T21:40:42,Britzer Damm/Blaschkoallee,booked:bike_taken,745,1,0,2,1,1,4,3,0
+2025-07-20T21:29:22,Heinrich-Heine Platz,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T21:40:42,Krossener Straße/Boxhagener Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:40:42,U Paradestraße (Südwest),not_booked:bike_taken,0,0,0,5,2,2,4,1,0
+2025-07-20T21:40:42,Heidestraße/Annemarie-Renger-Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:40:42,Lehrter Straße (51),not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T21:40:42,Heckmannufer,not_booked:bike_taken,0,0,0,8,6,6,4,0,0
+2025-07-20T21:40:42,U Kleistpark (West),not_booked:bike_taken,0,0,0,7,6,6,4,0,0
+2025-07-20T21:40:42,Heckmannufer,not_booked:bike_taken,0,0,0,8,6,6,4,0,0
+2025-07-20T21:40:42,U Nollendorfplatz (EDEKA),not_booked:bike_taken,0,0,0,7,5,5,16,10,0
+2025-07-20T21:40:42,Reinhardtstraße/Südpanke,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T21:40:42,Holzmarktstraße,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T21:40:42,Jelbi Eisenacher Straße/Nollendorfstraße (SCH/EI),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T21:40:42,Kapelle-Ufer/Alexanderufer,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:40:42,Am Tempelhofer Feld,not_booked:bike_taken,0,0,0,4,3,3,8,4,0
+2025-07-20T21:40:42,Weinbergspark,not_booked:bike_taken,0,0,0,9,8,8,12,4,0
+2025-07-20T21:40:42,Nogatstraße/Ilsestraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:40:42,Urbanstraße/Geibelstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T21:40:42,U Birkenstraße (Südwest),not_booked:bike_taken,0,0,0,7,6,6,6,0,0
+2025-07-20T21:40:42,S Beusselstraße (Südost),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T21:40:42,Danziger Straße/Lychener Straße,not_booked:bike_taken,0,0,0,4,3,3,20,17,0
+2025-07-20T21:40:42,Holzmarktstraße,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T21:40:42,EDEKA Urbschat (U Siemensdamm),not_booked:bike_taken,0,0,0,8,7,7,4,0,0
+2025-07-20T21:40:42,VRAO 19 - S Ostkreuz/Simplonstraße (Abstellfläche-Mikromobilität),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T21:40:42,U Görlitzer Bahnhof,not_booked:bike_taken,0,0,0,4,3,3,15,11,0
+2025-07-20T21:40:42,Friedrichstadtpalast (U Oranienburger Tor),not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T21:40:42,Kapfenteichstraße/Am Treptower Park,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:40:42,S Nikolaisee (West),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:40:42,U Paradestraße (Südwest),not_booked:bike_taken,0,0,0,5,2,2,4,1,0
+2025-07-20T21:40:42,U Paradestraße (Südwest),not_booked:bike_taken,0,0,0,5,2,2,4,1,0
+2025-07-20T21:40:42,Rathaus Tiergarten (U Turmstraße),not_booked:bike_taken,0,0,0,3,1,1,10,9,0
+2025-07-20T21:40:42,U Hermannplatz/Hasenheide,not_booked:bike_taken,0,0,0,3,2,2,8,4,0
+2025-07-20T21:40:42,Jelbi U Görlitzer Bahnhof/Manteuffelstraße (KRE/GM),not_booked:bike_taken,0,0,0,3,2,2,11,8,0
+2025-07-20T21:40:42,Möllendorffstr./Rathaus Lichtenberg,not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T21:40:42,Jelbi Huxleys Neue Welt (NEU/HU),not_booked:bike_taken,0,0,0,5,4,4,7,2,0
+2025-07-20T21:40:42,Am Tempelhofer Feld,not_booked:bike_taken,0,0,0,4,3,3,8,4,0
+2025-07-20T21:40:42,U Nollendorfplatz (EDEKA),not_booked:bike_taken,0,0,0,7,5,5,16,10,0
+2025-07-20T21:40:42,Jelbi Hohenstaufenplatz/Dieffenbachstraße (KRE/HO),not_booked:bike_taken,0,0,0,2,1,1,16,15,0
+2025-07-20T21:40:42,S Hermannstraße (Südost),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:40:42,Quitzowstraße/Ellen-Epstein-Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:40:42,Urbanstraße/Geibelstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T21:40:42,Rathaus Tiergarten (U Turmstraße),not_booked:bike_taken,0,0,0,3,1,1,10,9,0
+2025-07-20T21:40:42,Bundeswehrkrankenhaus,not_booked:bike_taken,0,0,0,2,1,1,15,14,0
+2025-07-20T21:56:20,U Berliner Straße,booked:not_taken,1683,1,0,2,2,2,4,2,0
+2025-07-20T21:56:20,M Prenzlauer Allee,booked:not_taken,1683,1,0,3,3,3,18,15,0
+2025-07-20T21:56:20,Botschaft der nordischen Länder,booked:not_taken,938,1,0,1,1,1,5,4,0
+2025-07-20T21:56:20,Gierkeplatz (Süd),booked:not_taken,938,1,0,2,2,2,4,2,0
+2025-07-20T21:56:20,**DB Mobility Hub S Südkreuz (Erika-Gräfin-von-Brockdorff-Platz),booked:not_taken,1683,1,0,1,1,1,20,19,0
+2025-07-20T21:56:20,Alt-Stralau (Elsenbrücke),booked:bike_taken,938,1,0,2,1,1,4,3,0
+2025-07-20T21:56:20,Jelbi Graefestraße/Planufer (KRE/GP),booked:bike_taken,938,2,0,7,5,5,6,0,0
+2025-07-20T21:56:20,virtuell - S Treptower Park (Puschkinallee/Elsenstraße),booked:bike_taken,938,1,0,2,1,1,5,4,0
+2025-07-20T21:56:20,Jelbi Lichtensteinallee/Café am Neuen See (TIE/LI),booked:not_taken,938,1,0,1,1,1,8,7,0
+2025-07-20T21:56:20,Gleimstraße/Schönhauser Allee,booked:not_taken,1683,1,0,1,2,2,4,2,0
+2025-07-20T21:56:20,Teufelsseechaussee (Parkplatz),booked:bike_taken,2654,1,0,2,1,1,4,3,0
+2025-07-20T21:56:20,Beusselstraße/Wiclefstraße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T21:56:20,Lüneburger Straße/Paulstraße (IPU),not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T21:56:20,U Samariterstraße,not_booked:bike_taken,0,0,0,4,3,3,9,6,0
+2025-07-20T21:56:20,Friedelstraße/Pflügerstraße,not_booked:bike_taken,0,0,0,3,2,2,4,1,0
+2025-07-20T21:56:20,Geschwister Scholl Str.,not_booked:bike_taken,0,0,0,4,3,3,33,29,0
+2025-07-20T21:56:20,Quitzowstr.,not_booked:bike_taken,0,0,0,4,3,3,5,2,0
+2025-07-20T21:56:20,S+U Hauptbahnhof Washingtonplatz,not_booked:bike_taken,0,0,0,9,8,8,8,0,0
+2025-07-20T21:56:20,M Georgenstraße/Am Kupfergraben,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T21:56:20,Köpenicker Chausee (Klingenbergbrücke),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T21:56:20,Weserstraße/Nansenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:56:20,Jelbi S+U Lichtenberg (RUM/LIB),not_booked:bike_taken,0,0,0,3,2,2,10,8,0
+2025-07-20T21:56:20,Oranienplatz,not_booked:bike_taken,0,0,0,4,3,3,14,7,0
+2025-07-20T21:56:20,Stralauer Allee/Coca Cola,not_booked:bike_taken,0,0,0,3,2,2,8,6,0
+2025-07-20T21:56:20,S Landsberger Allee,not_booked:bike_taken,0,0,0,4,3,3,5,2,0
+2025-07-20T21:56:20,Jelbi Kohlfurter Straße/Fraenkelufer (KRE/KF),not_booked:bike_taken,0,0,0,2,1,1,6,5,0
+2025-07-20T21:56:20,Paul-Lincke-Ufer/Liegnitzer Straße,not_booked:bike_taken,0,0,0,9,8,8,7,0,0
+2025-07-20T21:56:20,Jelbi Burgstraße/Friedrichsbrücke (MIT/FR),not_booked:bike_taken,0,0,0,8,6,6,18,12,0
+2025-07-20T21:56:20,EDEKA Brehm (U Schönleinstraße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:56:20,Alt-Stralau/Bootsbauerstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:56:20,Jelbi Rathausstraße/Berliner Fernsehturm (MIT/RB),not_booked:bike_taken,0,0,0,4,3,3,8,5,0
+2025-07-20T21:56:20,Jelbi Maaßenstraße (SCH/MA),not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T21:56:20,Sonnenallee/Reuterstraße,not_booked:bike_taken,0,0,0,3,2,2,10,8,0
+2025-07-20T21:56:20,Weserstraße/Nansenstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:56:20,EDEKA Schrader (Barbarossastraße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:56:20,U Rathaus Neukölln (Boddinstraße),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:56:20,VRAO 54 - Mühlenstraße/Straße der Pariser Kommune (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,6,3,3,4,1,0
+2025-07-20T21:56:20,Sophienstraße/Weitlingstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:56:20,Str. des 17. Juni,not_booked:bike_taken,0,0,0,2,1,1,16,15,0
+2025-07-20T21:56:20,Weserstraße/Wildenbruchstraße,not_booked:bike_taken,0,0,0,4,1,1,4,3,0
+2025-07-20T21:56:20,U Fehrbelliner Platz (Südost),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:56:20,Jelbi Burgstraße/Friedrichsbrücke (MIT/FR),not_booked:bike_taken,0,0,0,8,6,6,18,12,0
+2025-07-20T21:56:20,Phillipstraße/Hannoversche Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:56:20,S Hackescher Markt,not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T21:56:20,Jelbi Herrfurthplatz West (NEU/HW),not_booked:bike_taken,0,0,0,6,4,4,9,5,0
+2025-07-20T21:56:20,Jelbi Herrfurthplatz West (NEU/HW),not_booked:bike_taken,0,0,0,6,4,4,9,5,0
+2025-07-20T21:56:20,Schwedter Straße/Korsörer Straße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T21:56:20,Weserstraße/Wildenbruchstraße,not_booked:bike_taken,0,0,0,4,1,1,4,3,0
+2025-07-20T21:56:20,Heinrich-Heine Platz,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:56:20,VRAO 54 - Mühlenstraße/Straße der Pariser Kommune (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,6,3,3,4,1,0
+2025-07-20T21:56:20,Weserstraße/Wildenbruchstraße,not_booked:bike_taken,0,0,0,4,1,1,4,3,0
+2025-07-20T21:56:20,Müggelpark (Spreetunnel),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:56:20,U Stadtmitte,not_booked:bike_taken,0,0,0,8,7,7,15,8,0
+2025-07-20T21:56:20,Karl-Marx Allee,not_booked:bike_taken,0,0,0,7,6,6,16,10,0
+2025-07-20T21:56:20,VRAO 54 - Mühlenstraße/Straße der Pariser Kommune (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,6,3,3,4,1,0
+2025-07-20T21:56:20,S Ostkreuz (Südost),not_booked:bike_taken,0,0,0,4,3,3,4,0,0
+2025-07-20T21:56:20,U Samariterstraße,not_booked:bike_taken,0,0,0,4,3,3,9,6,0
+2025-07-20T21:56:45,Dominicusstraße/Belziger Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:57:02,EDEKA Fromm (S+U Wedding),booked:not_taken,980,1,0,2,2,2,4,2,0
+2025-07-20T21:57:14,Rummelsburger Landstraße/Nalepastraße,not_booked:bike_taken,0,0,0,7,6,6,4,0,0
+2025-07-20T21:57:14,EDEKA Fromm (S+U Wedding),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T21:57:26,Jelbi Burgstraße/Friedrichsbrücke (MIT/FR),not_booked:bike_taken,0,0,0,6,4,4,18,14,0
+2025-07-20T21:57:26,Jelbi Burgstraße/Friedrichsbrücke (MIT/FR),not_booked:bike_taken,0,0,0,6,4,4,18,14,0
+2025-07-20T22:13:03,Jelbi Eingang Tempelhofer Feld/Columbiadamm (TEM/CO),booked:bike_taken,1003,1,0,4,3,3,8,5,0
+2025-07-20T22:13:03,VRAO 19 - S Ostkreuz/Simplonstraße (Abstellfläche-Mikromobilität),booked:not_taken,1003,1,0,1,1,1,6,5,0
+2025-07-20T22:13:03,Jelbi Rathausstraße/Poststraße (MIT/RP),booked:bike_taken,1003,1,0,12,11,11,10,0,0
+2025-07-20T22:13:03,Rummelsburger Landstraße/Nalepastraße,not_booked:bike_taken,0,0,0,6,5,5,4,0,0
+2025-07-20T22:13:03,U Frankfurter Tor,not_booked:bike_taken,0,0,0,3,2,2,16,14,0
+2025-07-20T22:13:03,Weinbergspark,not_booked:bike_taken,0,0,0,8,6,6,12,6,0
+2025-07-20T22:13:03,S Ostkreuz (Südost),not_booked:bike_taken,0,0,0,3,1,1,4,2,0
+2025-07-20T22:13:03,U Eberswalder Straße,not_booked:bike_taken,0,0,0,3,2,2,14,12,0
+2025-07-20T22:13:03,VRAO 62 - Görlitzer Straße/Lübbenerstraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,5,2,2,4,1,0
+2025-07-20T22:13:03,S Grunewald (West),not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T22:13:03,Sonnenallee (Weichselstraße),not_booked:bike_taken,0,0,0,4,2,2,5,3,0
+2025-07-20T22:13:03,Werderscher Markt/Schinkelplatz,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T22:13:03,S+U Hermannstraße,not_booked:bike_taken,0,0,0,4,2,2,10,8,0
+2025-07-20T22:13:03,Zenner,not_booked:bike_taken,0,0,0,3,2,2,5,3,0
+2025-07-20T22:13:03,VRAO 62 - Görlitzer Straße/Lübbenerstraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,5,2,2,4,1,0
+2025-07-20T22:13:03,virtuell - Braunschweiger Straße/Niemetzstraße,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T22:13:03,U Rathaus Schöneberg,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T22:13:03,Jelbi Graefestraße/Planufer (KRE/GP),not_booked:bike_taken,0,0,0,5,4,4,6,1,0
+2025-07-20T22:13:03,Boddinstraße/Mainzer Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T22:13:03,Jelbi Herrfurthplatz West (NEU/HW),not_booked:bike_taken,0,0,0,4,1,1,9,8,0
+2025-07-20T22:13:03,Weinbergspark,not_booked:bike_taken,0,0,0,8,6,6,12,6,0
+2025-07-20T22:13:03,Jelbi Winterfeldtplatz (SCH/WF),not_booked:bike_taken,0,0,0,3,2,2,3,0,0
+2025-07-20T22:13:03,**Helsingforser Platz (S Warschauer Straße),not_booked:bike_taken,0,0,0,3,1,1,12,11,0
+2025-07-20T22:13:03,Jelbi S+U Hauptbahnhof/Heidestraße (MOA/HA),not_booked:bike_taken,0,0,0,4,2,2,8,6,0
+2025-07-20T22:13:03,Eschersheimer Straße/Oberlandstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T22:13:03,Mariannenplatz,not_booked:bike_taken,0,0,0,4,3,3,7,3,0
+2025-07-20T22:13:03,Jelbi S+U Hauptbahnhof/Heidestraße (MOA/HA),not_booked:bike_taken,0,0,0,4,2,2,8,6,0
+2025-07-20T22:13:03,Ella-Trebe-Straße/Rahel-Hirsch-Straße,not_booked:bike_taken,0,0,0,4,3,3,6,3,0
+2025-07-20T22:13:03,Eichenstraße/Martin-Hoffmann-Straße,not_booked:bike_taken,0,0,0,5,4,4,10,6,0
+2025-07-20T22:13:03,**Helsingforser Platz (S Warschauer Straße),not_booked:bike_taken,0,0,0,3,1,1,12,11,0
+2025-07-20T22:13:03,Zossener Straße/Johanniterstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T22:13:03,virtuell - Braunschweiger Straße/Niemetzstraße,not_booked:bike_taken,0,0,0,4,2,2,4,2,0
+2025-07-20T22:13:03,U Samariterstraße,not_booked:bike_taken,0,0,0,3,2,2,9,7,0
+2025-07-20T22:13:03,Holzmarktstraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T22:13:03,EDEKA Berliner Straße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T22:13:03,Jelbi Herrfurthplatz West (NEU/HW),not_booked:bike_taken,0,0,0,4,1,1,9,8,0
+2025-07-20T22:13:03,Zossener Straße/Johanniterstraße,not_booked:bike_taken,0,0,0,3,1,1,4,3,0
+2025-07-20T22:13:03,S+U Alexanderplatz (Dircksenstraße),not_booked:bike_taken,0,0,0,3,1,1,13,12,0
+2025-07-20T22:13:03,S Ostkreuz (Südost),not_booked:bike_taken,0,0,0,3,1,1,4,2,0
+2025-07-20T22:13:03,Jelbi Herrfurthplatz West (NEU/HW),not_booked:bike_taken,0,0,0,4,1,1,9,8,0
+2025-07-20T22:13:03,Jelbi Fichtestraße/Körtestraße (KRE/FIT),not_booked:bike_taken,0,0,0,5,3,3,10,5,0
+2025-07-20T22:13:03,S+U Yorckstraße (Süd),not_booked:bike_taken,0,0,0,2,1,1,4,2,0
+2025-07-20T22:13:03,Weinbergspark,not_booked:bike_taken,0,0,0,8,6,6,12,6,0
+2025-07-20T22:13:03,Sonnenallee/Elbestraße,not_booked:bike_taken,0,0,0,2,1,1,4,3,0
+2025-07-20T22:13:03,U Berliner Straße,not_booked:bike_taken,0,0,0,3,2,2,4,2,0
+2025-07-20T22:13:03,Paula-Fürst-Straße/Hildegard-Marcusson-Straße,not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T22:13:03,Jelbi Fichtestraße/Körtestraße (KRE/FIT),not_booked:bike_taken,0,0,0,5,3,3,10,5,0
+2025-07-20T22:13:03,Jelbi Dieffenbachstr./Graefestr. (KRE/DI),not_booked:bike_taken,0,0,0,2,1,1,11,10,0
+2025-07-20T22:13:03,Schlesische Straße/Falckensteinstraße (Süd),not_booked:bike_taken,0,0,0,4,1,1,4,3,0
+2025-07-20T22:13:03,S+U Alexanderplatz (Dircksenstraße),not_booked:bike_taken,0,0,0,3,1,1,13,12,0
+2025-07-20T22:13:03,Jelbi Eisenacher Straße/Nollendorfstraße (SCH/EI),not_booked:bike_taken,0,0,0,3,2,2,6,4,0
+2025-07-20T22:13:03,VRAO 62 - Görlitzer Straße/Lübbenerstraße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,5,2,2,4,1,0
+2025-07-20T22:13:03,S+U Hermannstraße,not_booked:bike_taken,0,0,0,4,2,2,10,8,0
+2025-07-20T22:13:03,Sonnenallee (Weichselstraße),not_booked:bike_taken,0,0,0,4,2,2,5,3,0
+2025-07-20T22:13:03,Schlesische Straße/Falckensteinstraße (Süd),not_booked:bike_taken,0,0,0,4,1,1,4,3,0
+2025-07-20T22:13:03,Schlesische Straße/Falckensteinstraße (Süd),not_booked:bike_taken,0,0,0,4,1,1,4,3,0
+2025-07-20T22:13:22,Studierenden-Wohnheim Sewanstraße (Süd),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T22:13:50,U Nollendorfplatz (EDEKA),not_booked:bike_taken,0,0,0,5,4,4,16,11,0
+2025-07-20T22:14:01, Jelbi Klinikum Am Urban/Dieffenbachstraße (KRE/KD),booked:not_taken,58,1,0,1,1,1,5,4,0
+2025-07-20T22:14:13,Jelbi Bebelplatz (MIT/BB),booked:not_taken,70,1,0,1,1,1,6,5,0
+2025-07-20T22:14:19,S+U Jannowitzbrücke,booked:not_taken,76,1,0,1,1,1,14,13,0
+2025-07-20T22:48:37,U Frankfurter Tor,not_booked:bike_taken,0,0,0,2,1,1,16,15,0
+2025-07-20T22:49:00,Eichenstraße/Martin-Hoffmann-Straße,not_booked:bike_taken,0,0,0,2,1,1,10,9,0
+2025-07-20T22:49:00,VRAO 422 - Schlesische Straße (Abstellfläche Mikromobilität),not_booked:bike_taken,0,0,0,4,3,3,4,1,0
+2025-07-20T22:49:32,S Ostbahnhof (Nordost),not_booked:bike_taken,0,0,0,2,1,1,5,4,0
+2025-07-20T22:51:00,Jelbi U Südstern (KRE/SU),not_booked:bike_taken,0,0,0,4,3,3,8,5,0
+2025-07-20T22:51:11,VRAO 56 - Falckensteinstraße/Wrangelstraße (Abstellfläche Mikromobilität),booked:bike_taken,159,1,0,2,1,1,4,2,0
+2025-07-20T22:51:22,**S+U Hauptbahnhof/Europaplatz,booked:not_taken,87,1,0,1,1,1,10,9,0
+2025-07-20T22:51:43,Alboinplatz (Nord),booked:bike_taken,191,1,0,3,2,2,4,2,0
+2025-07-20T22:52:05,Birkenstraße/Wilsnacker Straße,booked:bike_taken,213,2,1,4,3,2,4,0,0
+2025-07-20T22:52:26,Heckmannufer,not_booked:bike_taken,0,0,0,6,5,5,4,0,0
+2025-07-20T22:52:59,VRAO 94 - Triftstraße/Wildenowstraße (Abstellfläche Mikromobilität),booked:bike_taken,267,1,0,3,2,2,4,2,0
+2025-07-20T22:53:25,Jelbi S+U Zoologischer Garten/Hardenbergplatz (CHA/HA),booked:not_taken,265,1,0,1,1,1,8,7,0
+2025-07-20T22:53:25,Wrangelstraße,not_booked:bike_taken,0,0,0,5,4,4,13,9,0
+2025-07-20T22:54:19,VRAO 45 - U Tierpark (Abstellfläche Mikromobilität),booked:not_taken,347,1,0,2,2,2,4,2,0
+2025-07-20T22:54:19,virtuell – Lohmühlenstraße/Karl-Kunger-Straße,booked:not_taken,347,1,0,1,1,1,4,3,0
